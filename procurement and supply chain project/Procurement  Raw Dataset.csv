@@ -1,0 +1,840 @@
+PO_ID,supplier_id,supplier_name,supplier_country,supplier_city,Order_Date,Delivery_Date,Item_Category,Order_Status,Quantity,Unit_Price,Negotiated_Price,Defective_Units,Compliance,risk_flag,requestor_department
+PO-00001,SUP-364231,Marseille Industrial SARL,France,Marseille,17.10.23,25-10-2023,Office Supplies,Cancelled,1176,20.13,17.81,,yes,Low,Finance
+PO-00002,SUP-547750,Lyon Industrial SARL,France,Lyon,25.04.22,05-05-2022,Office Supplies,Delivered,1509,39.32,37.34,235,yes,Low,Finance
+PO-00003,SUP-911637,"Shanghai Industrial Co., Ltd.",China,Shanghai,26.01.22,15-02-2022,MRO,Delivered,910,95.51,92.26,41,YES,Medium,Operations
+PO-00004,SUP-212913,Hamburg Industrial GmbH,Germany,Hamburg,9.10.22,28-10-2022,Packaging,Delivered,1344,99.85,95.52,112,YES,High,Manufacturing
+PO-00005,SUP-408803,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,8.09.22,20-09-2022,Raw Materials,Delivered,1180,64.07,60.53,171,NO,Medium,R&D
+PO-00006,SUP-856971,Mumbai Industrial Pvt Ltd,India,Mumbai,17.08.22,29-08-2022,MRO,Delivered,1145,69.21,63.57,39,yes,Medium,Finance
+PO-00007,SUP-332077,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,23.05.22,03-06-2022,MRO,Delivered,1774,51.37,47.82,96,NO,Medium,Operations
+PO-00008,SUP-259243,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,15.04.22,29-04-2022,MRO,Delivered,1094,36.93,32.78,22,YES,Low,R&D
+PO-00009,SUP-116616,Monterrey Industrial S.A.,Mexico,Monterrey,24.11.23,28-11-2023,Raw Materials,Partially Delivered,1688,43.93,39.89,89,YES,High,R&D
+PO-00010,SUP-453243,New York Industrial LLC,United States,New York,13.07.23,25-07-2023,Raw Materials,Pending,171,76.87,70.2,8,YES,Medium,Manufacturing
+PO-00011,SUP-749086,London Industrial Ltd,United Kingdom,London,31.03.22,15-04-2022,Raw Materials,Delivered,5000,78.49,73.68,18,YES,High,Operations
+PO-00012,SUP-930177,Guadalajara Industrial S.A.,Mexico,Guadalajara,28.08.23,11-09-2023,Raw Materials,Delivered,5000,88.96,86.58,115,yes,High,Finance
+PO-00013,SUP-347261,Pune Industrial Pvt Ltd,India,Pune,9.03.23,26-03-2023,Electronics,Pending,5000,86.74,74.86,51,YES,High,Manufacturing
+PO-00014,SUP-455657,Manchester Industrial Ltd,United Kingdom,Manchester,2.02.22,,MRO,Delivered,5000,18.3,16.88,,YES,Low,IT
+PO-00015,SUP-766753,Campinas Industrial Ltda,Brazil,Campinas,31.01.22,18-02-2022,Electronics,Pending,5000,54.5,48.45,22,YES,High,Manufacturing
+PO-00016,SUP-420017,Lyon Industrial SARL,France,Lyon,6.04.22,21-04-2022,Packaging,Delivered,5000,15.41,15.12,,YES,Medium,R&D
+PO-00017,SUP-690859,Guadalajara Industrial S.A.,Mexico,Guadalajara,12.08.22,31-08-2022,MRO,Delivered,1173,61.54,55.49,172,no,High,Finance
+PO-00018,SUP-419021,Turin Industrial SRL,Italy,Turin,27.08.22,04-09-2022,Raw Materials,Delivered,921,51.48,50.61,,YES,Low,Manufacturing
+PO-00019,SUP-704396,Chennai Industrial Pvt Ltd,India,Chennai,2.06.23,05-06-2023,Raw Materials,Partially Delivered,1737,97.53,87.37,79,YES,Medium,Operations
+PO-00020,SUP-464700,Lyon Industrial SARL,France,Lyon,9.09.23,24-09-2023,Raw Materials,Delivered,180,45.74,38.89,,no,Medium,Finance
+PO-00021,SUP-210242,Turin Industrial SRL,Italy,Turin,28.01.22,12-02-2022,Electronics,Cancelled,1735,20.54,19.69,49,YES,Medium,R&D
+PO-00022,SUP-668001,Munich Industrial GmbH,Germany,Munich,29.07.23,11-08-2023,Raw Materials,Delivered,1382,24.93,23.75,,YES,Medium,R&D
+PO-00023,SUP-625681,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,23.07.22,08-08-2022,MRO,Delivered,819,80.89,77.03,29,YES,Low,IT
+PO-00024,SUP-575545,Hamburg Industrial GmbH,Germany,Hamburg,28.10.23,03-11-2023,Office Supplies,Partially Delivered,393,72.53,66.31,42,NO,Low,Manufacturing
+PO-00025,SUP-515928,Manchester Industrial Ltd,United Kingdom,Manchester,20.12.23,01-01-2024,MRO,Delivered,1565,21.3,20.09,161,YES,Low,Manufacturing
+PO-00026,SUP-562281,"Guangzhou Industrial Co., Ltd.",China,Guangzhou,13.07.23,24-07-2023,Packaging,Delivered,1487,19.15,17.24,,YES,Low,R&D
+PO-00027,SUP-997975,Guadalajara Industrial S.A.,Mexico,Guadalajara,06-03-2023,26-03-2023,MRO,Delivered,855,78.2,67.16,17,YES,Medium,Operations
+PO-00028,SUP-364143,Delhi Industrial Pvt Ltd,India,Delhi,14-08-2022,23-08-2022,Raw Materials,Delivered,435,17.13,15.84,8,YES,Medium,Manufacturing
+PO-00029,SUP-990111,New York Industrial LLC,United States,New York,05-04-2023,22-04-2023,MRO,Delivered,1265,90.26,79.47,187,YES,Low,IT
+PO-00030,SUP-731788,Lyon Industrial SARL,France,Lyon,27-08-2023,,MRO,Delivered,1005,80.55,73.31,30,YES,Low,Operations
+PO-00031,SUP-561649,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,12-10-2022,26-10-2022,Electronics,Delivered,326,18.1,15.92,,NO,Medium,R&D
+PO-00032,SUP-224283,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,07-01-2022,15-01-2022,Office Supplies,Delivered,1234,17.64,15.66,26,YES,Medium,R&D
+PO-00033,SUP-331133,Stuttgart Industrial GmbH,Germany,Stuttgart,13-06-2022,29-06-2022,MRO,Delivered,509,101.27,97.82,19,YES,High,Operations
+PO-00034,SUP-915985,Turin Industrial SRL,Italy,Turin,16-12-2023,17-12-2023,Packaging,Delivered,1387,48.71,43.71,27,yes,High,Finance
+PO-00035,SUP-281294,New York Industrial LLC,United States,New York,09-03-2023,17-03-2023,MRO,Delivered,71,46.39,43.18,0,YES,Low,Operations
+PO-00036,SUP-683752,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,15-12-2022,23-12-2022,Office Supplies,Delivered,302,87.73,81.52,9,yes,Low,Finance
+PO-00037,SUP-243139,Chicago Industrial LLC,United States,Chicago,12-10-2022,31-10-2022,Office Supplies,Pending,797,99.54,91.37,18,YES,High,Operations
+PO-00038,SUP-336176,Milan Industrial SRL,Italy,Milan,09-06-2022,27-06-2022,Office Supplies,Pending,906,101.21,90.9,94,YES,Low,IT
+PO-00039,SUP-737894,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,09-08-2022,23-08-2022,Office Supplies,Delivered,1634,80.53,76.15,50,yes,Medium,Finance
+PO-00040,SUP-708449,"Shanghai Industrial Co., Ltd.",China,Shanghai,11-12-2022,,Office Supplies,Delivered,524,46.28,39.65,14,YES,Medium,IT
+PO-00041,SUP-443630,Atlanta Industrial LLC,United States,Atlanta,15-04-2022,27-04-2022,Electronics,Delivered,1132,17.78,15.36,96,YES,High,IT
+PO-00042,SUP-485241,Turin Industrial SRL,Italy,Turin,05-04-2022,14-04-2022,Office Supplies,Delivered,560,81.14,77.87,34,NO,Medium,Manufacturing
+PO-00043,SUP-316991,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,25-01-2023,02-02-2023,Electronics,Delivered,1755,63.87,58.4,85,YES,Medium,Operations
+PO-00044,SUP-780833,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,10-04-2022,17-04-2022,MRO,Delivered,1549,48.9,42.42,48,YES,Medium,IT
+PO-00045,SUP-722290,Lyon Industrial SARL,France,Lyon,03-01-2023,21-01-2023,MRO,Delivered,749,97.07,94.16,123,yes,Medium,Finance
+PO-00046,SUP-471743,Hamburg Industrial GmbH,Germany,Hamburg,19-12-2022,,Electronics,Delivered,1025,21.11,19.25,15,yes,High,Finance
+PO-00047,SUP-782932,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,11-09-2023,18-09-2023,Raw Materials,Delivered,1856,59.77,50.81,191,YES,Medium,IT
+PO-00048,SUP-481504,Bologna Industrial SRL,Italy,Bologna,28-09-2022,14-10-2022,Office Supplies,Delivered,239,11.46,11.28,4,YES,Medium,IT
+PO-00049,SUP-497453,Campinas Industrial Ltda,Brazil,Campinas,14-02-2022,05-03-2022,Office Supplies,Pending,1007,52.44,46.06,167,YES,Medium,IT
+PO-00050,SUP-490046,Birmingham Industrial Ltd,United Kingdom,Birmingham,16-04-2023,,MRO,Pending,736,16.2,15.33,18,YES,High,Manufacturing
+PO-00051,SUP-628951,"Ho Chi Minh City Industrial Co., Ltd.",Vietnam,Ho Chi Minh City,04-07-2023,14-07-2023,Electronics,Delivered,1007,22.56,19.59,,YES,Low,Manufacturing
+PO-00052,SUP-633945,Marseille Industrial SARL,France,Marseille,08-05-2022,,Office Supplies,Delivered,612,20.99,19.75,102,YES,Low,Manufacturing
+PO-00053,SUP-951509,Hamburg Industrial GmbH,Germany,Hamburg,23-01-2023,02-02-2023,MRO,Pending,1949,72.53,63.26,48,NO,Medium,Manufacturing
+PO-00054,SUP-434043,Hamburg Industrial GmbH,Germany,Hamburg,22-03-2022,28-03-2022,Office Supplies,Cancelled,1640,77.92,76.41,262,no,Medium,Finance
+PO-00055,SUP-308579,Paris Industrial SARL,France,Paris,20-07-2023,07-08-2023,Electronics,Delivered,1317,68.13,60.52,136,YES,Medium,R&D
+PO-00056,SUP-727509,New York Industrial LLC,United States,New York,28-10-2022,30-10-2022,Raw Materials,Delivered,881,100.94,95.05,30,YES,High,Operations
+PO-00057,SUP-835226,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,06-10-2023,,Packaging,Delivered,1578,48.33,42.77,206,YES,Low,Operations
+PO-00058,SUP-344000,Birmingham Industrial Ltd,United Kingdom,Birmingham,26-09-2023,01-10-2023,MRO,Delivered,1204,39.29,35.44,,YES,Medium,R&D
+PO-00059,SUP-993491,Turin Industrial SRL,Italy,Turin,06-01-2023,22-01-2023,MRO,Pending,1558,93.46,91.27,39,YES,Medium,IT
+PO-00060,SUP-694697,Pune Industrial Pvt Ltd,India,Pune,15-08-2023,16-08-2023,Packaging,Delivered,1892,32.99,28.81,35,yes,Low,Finance
+PO-00061,SUP-166754,Manchester Industrial Ltd,United Kingdom,Manchester,16-07-2022,01-08-2022,Packaging,Delivered,696,99.59,90.18,25,YES,High,Manufacturing
+PO-00062,SUP-925590,Lyon Industrial SARL,France,Lyon,23-12-2023,03-01-2024,MRO,Partially Delivered,70,12.37,11.04,10,yes,Medium,Finance
+PO-00063,SUP-492265,Mexico City Industrial S.A.,Mexico,Mexico City,13-03-2022,15-03-2022,Raw Materials,Delivered,890,98.26,93.14,49,YES,Low,R&D
+PO-00064,SUP-628872,"Guangzhou Industrial Co., Ltd.",China,Guangzhou,16-02-2022,04-03-2022,MRO,Delivered,216,13.95,12.31,5,YES,High,R&D
+PO-00065,SUP-162532,Marseille Industrial SARL,France,Marseille,09-11-2023,12-11-2023,Packaging,Delivered,1347,100.13,94.3,200,YES,High,Operations
+PO-00066,SUP-171055,Birmingham Industrial Ltd,United Kingdom,Birmingham,22-08-2022,25-08-2022,Office Supplies,Partially Delivered,437,59.51,56.45,25,NO,Medium,Operations
+PO-00067,SUP-198493,Guadalajara Industrial S.A.,Mexico,Guadalajara,24-10-2022,26-10-2022,Electronics,Delivered,650,103.84,88.28,12,YES,High,R&D
+PO-00068,SUP-562955,Bologna Industrial SRL,Italy,Bologna,23-03-2022,11-04-2022,Office Supplies,Delivered,365,16.81,15.41,38,YES,Low,Operations
+PO-00069,SUP-485311,Manchester Industrial Ltd,United Kingdom,Manchester,27-08-2022,,Raw Materials,Cancelled,63,61.94,53.8,,YES,Medium,Manufacturing
+PO-00070,SUP-931271,Stuttgart Industrial GmbH,Germany,Stuttgart,14-04-2022,22-04-2022,MRO,Delivered,291,98.7,87.02,9,yes,Low,Finance
+PO-00071,SUP-978664,San Jose Industrial LLC,United States,San Jose,25-01-2023,08-02-2023,MRO,Cancelled,826,60.5,57.18,18,YES,Medium,Manufacturing
+PO-00072,SUP-775264,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,12-10-2022,01-11-2022,Electronics,Pending,1419,69.64,59.28,194,YES,Low,Operations
+PO-00073,SUP-925700,London Industrial Ltd,United Kingdom,London,10-04-2023,27-04-2023,Office Supplies,Delivered,614,78.06,73.95,40,YES,Low,R&D
+PO-00074,SUP-337295,Bangalore Industrial Pvt Ltd,India,Bangalore,13-10-2023,28-10-2023,Electronics,Delivered,947,56.25,54.25,19,YES,Low,Manufacturing
+PO-00075,SUP-130887,Bologna Industrial SRL,Italy,Bologna,09-01-2023,28-01-2023,Raw Materials,Delivered,1413,70.47,69.65,,yes,Low,Finance
+PO-00076,SUP-801467,Lyon Industrial SARL,France,Lyon,16-06-2022,,Office Supplies,Partially Delivered,141,64.15,58.32,,YES,Medium,R&D
+PO-00077,SUP-911083,Lyon Industrial SARL,France,Lyon,15-01-2023,04-02-2023,Office Supplies,Delivered,1440,96.57,83.87,36,YES,Low,Manufacturing
+PO-00078,SUP-165193,Bologna Industrial SRL,Italy,Bologna,30-12-2022,03-01-2023,Raw Materials,Delivered,1005,14.87,12.79,,no,High,Finance
+PO-00079,SUP-191612,Mexico City Industrial S.A.,Mexico,Mexico City,03-08-2022,,MRO,Delivered,1528,36.52,33,31,NO,High,IT
+PO-00080,SUP-970144,Turin Industrial SRL,Italy,Turin,18-11-2023,25-11-2023,MRO,Delivered,1501,106.05,100.99,77,NO,Low,R&D
+PO-00081,SUP-344028,Chicago Industrial LLC,United States,Chicago,01-10-2022,04-10-2022,Packaging,Delivered,558,94.18,81.4,,NO,High,IT
+PO-00082,SUP-939349,San Jose Industrial LLC,United States,San Jose,20-12-2023,26-12-2023,MRO,Delivered,825,56.88,50.84,,YES,Low,IT
+PO-00083,SUP-833117,Monterrey Industrial S.A.,Mexico,Monterrey,01-12-2023,07-12-2023,Electronics,Cancelled,84,73.38,71.42,9,yes,High,Finance
+PO-00084,SUP-437000,Berlin Industrial GmbH,Germany,Berlin,26-10-2023,10-11-2023,Raw Materials,Delivered,255,38.64,33.59,27,NO,Low,R&D
+PO-00085,SUP-862926,Pune Industrial Pvt Ltd,India,Pune,15-03-2022,31-03-2022,MRO,Delivered,1154,27.2,26.07,58,YES,Medium,Operations
+PO-00086,SUP-604952,Mumbai Industrial Pvt Ltd,India,Mumbai,16-09-2023,24-09-2023,Office Supplies,Delivered,1635,56.91,54.37,262,NO,Medium,IT
+PO-00087,SUP-852181,Bangalore Industrial Pvt Ltd,India,Bangalore,13-10-2023,23-10-2023,Raw Materials,Delivered,1945,46.19,40.12,278,NO,High,Manufacturing
+PO-00088,SUP-319293,Guadalajara Industrial S.A.,Mexico,Guadalajara,25-06-2022,10-07-2022,MRO,Partially Delivered,1461,64.09,63.39,228,NO,Medium,R&D
+PO-00089,SUP-449358,Chicago Industrial LLC,United States,Chicago,01-07-2023,09-07-2023,Electronics,Delivered,1075,18.53,16.12,147,YES,Low,Operations
+PO-00090,SUP-919135,Munich Industrial GmbH,Germany,Munich,08-09-2022,,Packaging,Delivered,1071,101.6,93.91,25,YES,Medium,Operations
+PO-00091,SUP-960986,"Ho Chi Minh City Industrial Co., Ltd.",Vietnam,Ho Chi Minh City,17-06-2022,06-07-2022,Packaging,Pending,1463,101.23,86.17,43,YES,High,Manufacturing
+PO-00092,SUP-731649,Paris Industrial SARL,France,Paris,19-04-2023,26-04-2023,Raw Materials,Delivered,615,78.3,73.68,69,YES,High,IT
+PO-00093,SUP-742253,Atlanta Industrial LLC,United States,Atlanta,24-01-2023,11-02-2023,Electronics,Delivered,1179,61.74,56.28,,YES,Low,Manufacturing
+PO-00094,SUP-708846,Munich Industrial GmbH,Germany,Munich,04-10-2022,09-10-2022,Electronics,Partially Delivered,1845,39.56,37.63,45,YES,Medium,Operations
+PO-00095,SUP-471909,Chicago Industrial LLC,United States,Chicago,18-10-2023,,Electronics,Cancelled,1895,91.98,86.27,170,YES,High,IT
+PO-00096,SUP-360568,Paris Industrial SARL,France,Paris,06-12-2023,09-12-2023,MRO,Partially Delivered,1550,79.86,69.57,32,NO,Low,Manufacturing
+PO-00097,SUP-227799,Chennai Industrial Pvt Ltd,India,Chennai,25-07-2023,04-08-2023,Packaging,Delivered,752,26.85,24.37,,NO,Medium,Manufacturing
+PO-00098,SUP-606384,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,13-08-2022,01-09-2022,Electronics,Delivered,451,95.2,90.07,21,YES,High,Operations
+PO-00099,SUP-394149,Chicago Industrial LLC,United States,Chicago,03-12-2023,,Office Supplies,Delivered,779,93.69,90.92,66,YES,Low,Manufacturing
+PO-00100,SUP-325276,Stuttgart Industrial GmbH,Germany,Stuttgart,29-11-2022,14-12-2022,MRO,Pending,1629,100.26,86.44,187,NO,High,Manufacturing
+PO-00101,SUP-508129,Dallas Industrial LLC,United States,Dallas,27-02-2022,22-02-2022,Office Supplies,Delivered,211,75.69,65.4,2,YES,Medium,Manufacturing
+PO-00102,SUP-349530,Mexico City Industrial S.A.,Mexico,Mexico City,23-08-2022,,Office Supplies,Delivered,251,67.49,64.48,2,YES,Medium,IT
+PO-00103,SUP-940493,Bologna Industrial SRL,Italy,Bologna,02-02-2022,18-02-2022,Raw Materials,Delivered,1045,47.88,44.65,69,yes,Low,Finance
+PO-00104,SUP-978916,Bologna Industrial SRL,Italy,Bologna,20-11-2022,10-12-2022,MRO,Delivered,319,98.64,89.15,57,YES,High,Manufacturing
+PO-00105,SUP-937711,Guadalajara Industrial S.A.,Mexico,Guadalajara,15-02-2023,01-03-2023,Office Supplies,Partially Delivered,1936,93.66,92.24,58,yes,Low,Finance
+PO-00106,SUP-939551,Campinas Industrial Ltda,Brazil,Campinas,02-10-2022,22-10-2022,MRO,Cancelled,865,14.7,13.14,135,NO,High,Manufacturing
+PO-00107,SUP-369025,Pune Industrial Pvt Ltd,India,Pune,09-03-2022,12-03-2022,Electronics,Delivered,1344,12.5,10.87,44,YES,Medium,Operations
+PO-00108,SUP-118769,"Shanghai Industrial Co., Ltd.",China,Shanghai,05-08-2022,24-08-2022,Raw Materials,Pending,505,45.42,40.37,62,YES,Medium,R&D
+PO-00109,SUP-220882,London Industrial Ltd,United Kingdom,London,04-08-2023,05-08-2023,Packaging,Delivered,1535,90.83,78.28,151,NO,Medium,R&D
+PO-00110,SUP-694005,Marseille Industrial SARL,France,Marseille,19-11-2022,,Office Supplies,Delivered,1800,103.8,96.27,166,YES,Medium,Operations
+PO-00111,SUP-603324,Guadalajara Industrial S.A.,Mexico,Guadalajara,06-08-2022,15-08-2022,Raw Materials,Pending,1325,24.36,22.75,206,YES,High,Manufacturing
+PO-00112,SUP-173473,Delhi Industrial Pvt Ltd,India,Delhi,03-11-2023,09-11-2023,Raw Materials,Delivered,1066,70.45,65.88,56,NO,Low,R&D
+PO-00113,SUP-577553,Pune Industrial Pvt Ltd,India,Pune,27-05-2023,11-06-2023,Raw Materials,Delivered,1775,47.82,45.86,180,YES,Medium,IT
+PO-00114,SUP-256923,Bologna Industrial SRL,Italy,Bologna,10-02-2023,,Raw Materials,Partially Delivered,345,103.62,98.09,25,NO,Medium,Manufacturing
+PO-00115,SUP-991737,Frankfurt Industrial GmbH,Germany,Frankfurt,21-10-2023,09-11-2023,Electronics,Delivered,1798,94.8,91.83,,yes,High,Finance
+PO-00116,SUP-507416,Marseille Industrial SARL,France,Marseille,15-04-2023,01-05-2023,MRO,Delivered,769,91.86,86.55,17,YES,High,R&D
+PO-00117,SUP-643927,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,27-05-2022,,Packaging,Delivered,1822,53.23,47.49,39,YES,Low,Manufacturing
+PO-00118,SUP-853903,Turin Industrial SRL,Italy,Turin,29-09-2022,13-10-2022,Packaging,Delivered,387,49.23,45.41,61,YES,Low,R&D
+PO-00119,SUP-121420,Bangalore Industrial Pvt Ltd,India,Bangalore,23-05-2022,27-05-2022,MRO,Delivered,928,35.3,32.52,26,YES,Medium,Manufacturing
+PO-00120,SUP-221811,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,10-09-2022,21-09-2022,Packaging,Partially Delivered,1126,15.68,14.97,27,YES,Medium,Manufacturing
+PO-00121,SUP-804466,"Shanghai Industrial Co., Ltd.",China,Shanghai,29-07-2023,14-08-2023,Raw Materials,Cancelled,841,95.73,85.33,81,yes,Medium,Finance
+PO-00122,SUP-724455,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,06-07-2023,19-07-2023,Electronics,Delivered,1995,90.65,77.75,206,YES,Low,Manufacturing
+PO-00123,SUP-821634,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,27-09-2022,15-10-2022,Raw Materials,Delivered,266,103.97,101.44,6,yes,Medium,Finance
+PO-00124,SUP-297322,Chennai Industrial Pvt Ltd,India,Chennai,22-08-2023,25-08-2023,Raw Materials,Cancelled,813,109.17,107.39,14,YES,Medium,IT
+PO-00125,SUP-324953,London Industrial Ltd,United Kingdom,London,15-03-2023,26-03-2023,Electronics,Delivered,237,64.19,59.01,7,YES,Medium,Manufacturing
+PO-00126,SUP-957901,Munich Industrial GmbH,Germany,Munich,21-08-2023,03-09-2023,Office Supplies,Cancelled,429,86.73,75.09,9,yes,High,Finance
+PO-00127,SUP-432153,Guadalajara Industrial S.A.,Mexico,Guadalajara,13-02-2023,14-02-2023,Packaging,Delivered,542,101.21,93.11,78,NO,Medium,R&D
+PO-00128,SUP-329080,Bologna Industrial SRL,Italy,Bologna,06-01-2023,24-01-2023,Electronics,Delivered,1114,91.66,85.53,35,YES,High,Operations
+PO-00129,SUP-426143,Paris Industrial SARL,France,Paris,13-08-2022,15-08-2022,MRO,Delivered,1230,33.39,30.85,26,YES,Low,Manufacturing
+PO-00130,SUP-419011,Mexico City Industrial S.A.,Mexico,Mexico City,22-05-2022,03-06-2022,MRO,Delivered,64,51.56,50.88,5,YES,High,Manufacturing
+PO-00131,SUP-574728,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,06-06-2023,22-06-2023,MRO,Delivered,1886,23.46,23.18,,yes,Medium,Finance
+PO-00132,SUP-299630,Manchester Industrial Ltd,United Kingdom,Manchester,21-05-2023,23-05-2023,Office Supplies,Delivered,114,103.53,101.54,14,YES,Low,Operations
+PO-00133,SUP-335775,Guadalajara Industrial S.A.,Mexico,Guadalajara,04-04-2022,22-04-2022,Electronics,Cancelled,1930,65.52,56.9,282,YES,Low,IT
+PO-00134,SUP-432273,Chicago Industrial LLC,United States,Chicago,18-02-2022,28-02-2022,Office Supplies,Pending,1912,30.73,29.82,191,YES,Medium,R&D
+PO-00135,SUP-493955,Guadalajara Industrial S.A.,Mexico,Guadalajara,23-04-2022,09-05-2022,MRO,Delivered,570,71.51,66.47,,YES,High,R&D
+PO-00136,SUP-681416,Birmingham Industrial Ltd,United Kingdom,Birmingham,06-06-2022,26-06-2022,Raw Materials,Delivered,1417,67.27,60.62,,YES,High,R&D
+PO-00137,SUP-816368,Birmingham Industrial Ltd,United Kingdom,Birmingham,05-10-2023,11-10-2023,Raw Materials,Delivered,1202,46.67,44.13,21,NO,Low,Operations
+PO-00097,SUP-227799,Chennai Industrial Pvt Ltd,India,Chennai,25-07-2023,04-08-2023,Packaging,Delivered,752,26.85,24.37,,NO,Medium,Manufacturing
+PO-00098,SUP-606384,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,13-08-2022,01-09-2022,Electronics,Delivered,451,95.2,90.07,21,YES,High,Operations
+PO-00099,SUP-394149,Chicago Industrial LLC,United States,Chicago,03-12-2023,,Office Supplies,Delivered,779,93.69,90.92,66,YES,Low,Manufacturing
+PO-00100,SUP-325276,Stuttgart Industrial GmbH,Germany,Stuttgart,29-11-2022,14-12-2022,MRO,Pending,1629,100.26,86.44,187,NO,High,Manufacturing
+PO-00101,SUP-508129,Dallas Industrial LLC,United States,Dallas,27-02-2022,22-02-2022,Office Supplies,Delivered,211,75.69,65.4,2,YES,Medium,Manufacturing
+PO-00102,SUP-349530,Mexico City Industrial S.A.,Mexico,Mexico City,23-08-2022,,Office Supplies,Delivered,251,67.49,64.48,2,YES,Medium,IT
+PO-00214,SUP-484990,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,19-11-2023,29-11-2023,Office Supplies,Delivered,1316,48.11,41.9,135,yes,High,Finance
+PO-00215,SUP-598710,Paris Industrial SARL,France,Paris,28-10-2023,,Office Supplies,Delivered,1159,59.24,58.08,,YES,Medium,Operations
+PO-00216,SUP-488187,"Ningbo Industrial Co., Ltd.",China,Ningbo,18-01-2023,31-01-2023,Office Supplies,Delivered,1869,69.58,67.5,31,YES,Medium,IT
+PO-00217,SUP-526577,Marseille Industrial SARL,France,Marseille,25-03-2023,13-04-2023,Packaging,Delivered,627,46.23,42.87,,YES,Medium,Manufacturing
+PO-00372,SUP-544655,Guadalajara Industrial S.A.,Mexico,Guadalajara,17-03-2022,26-03-2022,Packaging,Delivered,1204,73.18,67.59,31,YES,Low,Operations
+PO-00373,SUP-208431,Marseille Industrial SARL,France,Marseille,05-07-2023,09-07-2023,Electronics,Partially Delivered,453,64.14,60.18,51,YES,High,Operations
+PO-00147,SUP-177319,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,26-06-2023,14-07-2023,Raw Materials,Delivered,338,50.25,46.28,49,no,Medium,Finance
+PO-00138,SUP-428568,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,13-06-2022,14-06-2022,Office Supplies,Delivered,697,20.73,19.83,78,NO,Medium,Manufacturing
+PO-00139,SUP-493744,Manchester Industrial Ltd,United Kingdom,Manchester,28-11-2023,01-12-2023,MRO,Delivered,1545,78.19,76.91,42,yes,High,Finance
+PO-00140,SUP-741049,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,09-03-2023,13-03-2023,MRO,Partially Delivered,1136,60.81,58.25,62,yes,High,Finance
+PO-00141,SUP-371029,Monterrey Industrial S.A.,Mexico,Monterrey,03-09-2023,07-09-2023,MRO,Delivered,1212,87.46,74.55,118,NO,Low,IT
+PO-00142,SUP-530018,Marseille Industrial SARL,France,Marseille,07-03-2022,12-03-2022,MRO,Delivered,1572,57.38,49.32,40,YES,Low,R&D
+PO-00143,SUP-192806,Paris Industrial SARL,France,Paris,30-01-2023,09-02-2023,Electronics,Delivered,642,91.9,81.49,26,yes,Low,Finance
+PO-00144,SUP-655823,Marseille Industrial SARL,France,Marseille,26-01-2023,04-02-2023,Office Supplies,Delivered,441,63.25,54.12,16,yes,Low,Finance
+PO-00145,SUP-212545,San Jose Industrial LLC,United States,San Jose,03-09-2023,19-09-2023,Office Supplies,Delivered,1748,66.53,57.11,,yes,High,Finance
+PO-00146,SUP-435871,Marseille Industrial SARL,France,Marseille,25-04-2023,,Electronics,Pending,468,95.57,91.8,24,YES,High,IT
+PO-00147,SUP-177319,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,26-06-2023,14-07-2023,Raw Materials,Delivered,338,50.25,46.28,49,no,Medium,Finance
+PO-00148,SUP-245839,Bologna Industrial SRL,Italy,Bologna,15-09-2022,22-09-2022,Office Supplies,Delivered,428,22.94,21.52,26,YES,Low,Manufacturing
+PO-00149,SUP-148424,Chicago Industrial LLC,United States,Chicago,21-07-2023,,Packaging,Delivered,1846,13.72,12.62,216,YES,Low,R&D
+PO-00150,SUP-969209,Munich Industrial GmbH,Germany,Munich,12-01-2022,17-01-2022,Office Supplies,Delivered,1563,77.96,70.8,41,yes,Low,Finance
+PO-00151,SUP-882796,Guadalajara Industrial S.A.,Mexico,Guadalajara,28-11-2023,07-12-2023,Office Supplies,Delivered,280,73.07,69.29,30,YES,Low,R&D
+PO-00152,SUP-743115,Dallas Industrial LLC,United States,Dallas,28-04-2022,12-05-2022,Raw Materials,Delivered,1067,74.47,64.16,,no,Low,Finance
+PO-00153,SUP-292188,Marseille Industrial SARL,France,Marseille,30-11-2023,17-12-2023,Electronics,Pending,90,32.38,29.96,7,YES,Medium,R&D
+PO-00154,SUP-463114,"Beijing Industrial Co., Ltd.",China,Beijing,04-07-2023,05-07-2023,Raw Materials,Delivered,1101,24.28,22.73,59,no,Low,Finance
+PO-00155,SUP-583799,Monterrey Industrial S.A.,Mexico,Monterrey,01-10-2022,11-10-2022,Raw Materials,Delivered,184,11.82,10.51,4,YES,Medium,Manufacturing
+PO-00156,SUP-822710,Birmingham Industrial Ltd,United Kingdom,Birmingham,19-10-2023,07-11-2023,Electronics,Delivered,250,45.92,41.02,3,YES,Low,IT
+PO-00157,SUP-713330,Birmingham Industrial Ltd,United Kingdom,Birmingham,15-12-2022,,Packaging,Cancelled,1913,66.56,61.34,61,YES,High,Manufacturing
+PO-00158,SUP-817436,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,25-04-2022,30-04-2022,Electronics,Delivered,829,45.98,40.39,,yes,High,Finance
+PO-00159,SUP-810568,Chennai Industrial Pvt Ltd,India,Chennai,28-10-2022,13-11-2022,Raw Materials,Delivered,979,51.59,49.69,148,YES,Low,R&D
+PO-00160,SUP-887815,Turin Industrial SRL,Italy,Turin,22-03-2023,09-04-2023,Electronics,Partially Delivered,1106,97.77,90.45,31,yes,High,Finance
+PO-00161,SUP-107344,Frankfurt Industrial GmbH,Germany,Frankfurt,11-06-2022,24-06-2022,Office Supplies,Pending,1121,42.38,38.34,152,YES,Low,Manufacturing
+PO-00162,SUP-122853,Bangalore Industrial Pvt Ltd,India,Bangalore,10-04-2023,21-04-2023,Office Supplies,Delivered,552,60.48,56.78,10,YES,Low,IT
+PO-00163,SUP-640002,"Ningbo Industrial Co., Ltd.",China,Ningbo,04-01-2022,12-01-2022,Packaging,Delivered,456,80.53,77.86,26,YES,High,Manufacturing
+PO-00164,SUP-316978,Dallas Industrial LLC,United States,Dallas,27-09-2022,05-10-2022,Packaging,Delivered,1647,47.52,44.92,,YES,Medium,IT
+PO-00165,SUP-722589,"Ho Chi Minh City Industrial Co., Ltd.",Vietnam,Ho Chi Minh City,28-05-2023,11-06-2023,Electronics,Pending,1801,71.27,61.24,43,YES,Medium,IT
+PO-00166,SUP-501991,Munich Industrial GmbH,Germany,Munich,02-07-2022,18-07-2022,Electronics,Delivered,854,90.24,85.53,,yes,Medium,Finance
+PO-00167,SUP-742860,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,04-06-2023,17-06-2023,Electronics,Delivered,148,103.57,98.62,23,NO,High,Operations
+PO-00168,SUP-923513,Campinas Industrial Ltda,Brazil,Campinas,19-04-2022,24-04-2022,MRO,Delivered,733,23.59,22.85,92,YES,Medium,Operations
+PO-00169,SUP-799787,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,03-10-2023,05-10-2023,Raw Materials,Delivered,1945,103.2,88.56,,yes,Low,Finance
+PO-00170,SUP-545801,Guadalajara Industrial S.A.,Mexico,Guadalajara,02-11-2022,21-11-2022,Raw Materials,Delivered,775,57,49.14,48,YES,High,Operations
+PO-00171,SUP-524931,Mexico City Industrial S.A.,Mexico,Mexico City,17-10-2023,21-10-2023,Packaging,Delivered,1620,36.73,33.45,235,NO,Low,R&D
+PO-00172,SUP-288447,Milan Industrial SRL,Italy,Milan,04-06-2023,19-06-2023,Office Supplies,Delivered,1010,55.68,50.86,,YES,Medium,Manufacturing
+PO-00173,SUP-379212,"Ningbo Industrial Co., Ltd.",China,Ningbo,16-09-2023,01-10-2023,Office Supplies,Delivered,1812,108.02,101.02,51,YES,Low,IT
+PO-00174,SUP-945385,Delhi Industrial Pvt Ltd,India,Delhi,23-07-2022,28-07-2022,Office Supplies,Delivered,662,55.97,50,100,YES,High,R&D
+PO-00175,SUP-932699,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,06-06-2022,11-06-2022,Office Supplies,Pending,1535,40.58,38.71,165,yes,High,Finance
+PO-00176,SUP-372543,Mumbai Industrial Pvt Ltd,India,Mumbai,18-01-2023,27-01-2023,Raw Materials,Delivered,692,71.03,67.74,70,YES,Medium,Operations
+PO-00177,SUP-195672,Bangalore Industrial Pvt Ltd,India,Bangalore,15-06-2022,28-06-2022,MRO,Delivered,1842,32.4,28.08,96,YES,Low,R&D
+PO-00178,SUP-519290,Campinas Industrial Ltda,Brazil,Campinas,07-07-2023,18-07-2023,Office Supplies,Cancelled,1078,18.34,17.41,102,yes,High,Finance
+PO-00179,SUP-899541,Milan Industrial SRL,Italy,Milan,28-06-2023,16-07-2023,Packaging,Delivered,1291,23.44,22.23,,yes,Low,Finance
+PO-00180,SUP-575077,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,01-01-2022,12-01-2022,Electronics,Delivered,552,21.52,18.79,13,YES,Medium,Operations
+PO-00181,SUP-825348,"Guangzhou Industrial Co., Ltd.",China,Guangzhou,06-09-2023,22-09-2023,Electronics,Delivered,816,26.04,25.61,28,YES,High,R&D
+PO-00182,SUP-558474,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,28-11-2022,30-11-2022,Packaging,Delivered,447,23.62,21.81,50,YES,Medium,R&D
+PO-00183,SUP-931001,New York Industrial LLC,United States,New York,16-05-2023,24-05-2023,Packaging,Partially Delivered,920,73.09,70.14,,yes,Low,Finance
+PO-00184,SUP-567375,Munich Industrial GmbH,Germany,Munich,20-01-2022,30-01-2022,Packaging,Partially Delivered,844,26.37,25.08,38,YES,Medium,Operations
+PO-00185,SUP-959281,"Ho Chi Minh City Industrial Co., Ltd.",Vietnam,Ho Chi Minh City,25-04-2022,,MRO,Delivered,442,41.73,36.45,15,YES,High,IT
+PO-00186,SUP-811481,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,07-01-2023,21-01-2023,Electronics,Cancelled,256,96.15,83.44,26,yes,High,Finance
+PO-00187,SUP-931311,Pune Industrial Pvt Ltd,India,Pune,11-11-2022,,MRO,Partially Delivered,1088,55.29,53.04,161,no,High,Finance
+PO-00188,SUP-390877,Birmingham Industrial Ltd,United Kingdom,Birmingham,03-09-2022,07-09-2022,Office Supplies,Delivered,1931,72.88,64.69,187,YES,Medium,R&D
+PO-00189,SUP-740200,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,01-03-2022,11-03-2022,Electronics,Delivered,1627,25.76,25.09,74,yes,Medium,Finance
+PO-00190,SUP-992630,Manchester Industrial Ltd,United Kingdom,Manchester,04-09-2022,,Packaging,Delivered,941,28.4,27.21,,NO,Medium,IT
+PO-00191,SUP-138256,Pune Industrial Pvt Ltd,India,Pune,04-08-2023,06-08-2023,MRO,Delivered,1534,14.98,12.79,,YES,Low,Manufacturing
+PO-00192,SUP-829722,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,22-03-2022,03-04-2022,Raw Materials,Delivered,1764,25.46,24.52,46,yes,High,Finance
+PO-00193,SUP-887906,Dallas Industrial LLC,United States,Dallas,29-03-2022,06-04-2022,Electronics,Delivered,1648,35.42,31.46,,NO,Low,Manufacturing
+PO-00194,SUP-702605,Pune Industrial Pvt Ltd,India,Pune,13-05-2023,01-06-2023,Packaging,Delivered,913,28.01,24.06,53,YES,High,R&D
+PO-00195,SUP-795067,Mexico City Industrial S.A.,Mexico,Mexico City,12-03-2022,18-03-2022,Packaging,Cancelled,792,18.16,17.25,17,YES,Low,Manufacturing
+PO-00196,SUP-460803,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,30-06-2023,03-07-2023,Office Supplies,Partially Delivered,1314,22.63,21.06,44,yes,High,Finance
+PO-00197,SUP-941921,Guadalajara Industrial S.A.,Mexico,Guadalajara,09-05-2022,22-05-2022,MRO,Delivered,613,52.5,45.19,70,YES,Low,Manufacturing
+PO-00198,SUP-771354,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,12-05-2022,20-05-2022,Office Supplies,Delivered,1070,29.14,26.63,24,YES,Low,IT
+PO-00199,SUP-725333,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,07-11-2023,26-11-2023,Raw Materials,Partially Delivered,145,47.49,42.76,6,YES,Low,IT
+PO-00200,SUP-265510,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,02-05-2023,17-05-2023,Raw Materials,Delivered,1973,59.73,54.95,291,yes,High,Finance
+PO-00201,SUP-579922,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,17-07-2023,01-08-2023,Office Supplies,Delivered,1807,78.63,73.08,100,YES,High,Operations
+PO-00202,SUP-332292,Hamburg Industrial GmbH,Germany,Hamburg,19-06-2022,20-06-2022,Electronics,Delivered,534,13.88,12.51,100,YES,Medium,IT
+PO-00203,SUP-707134,Frankfurt Industrial GmbH,Germany,Frankfurt,29-09-2022,14-10-2022,Electronics,Delivered,1480,85.22,75.48,100,YES,Low,R&D
+PO-00204,SUP-364571,Paris Industrial SARL,France,Paris,25-06-2023,,Office Supplies,Delivered,280,72.16,62.38,100,YES,High,Operations
+PO-00205,SUP-764190,Manchester Industrial Ltd,United Kingdom,Manchester,14-09-2023,20-09-2023,Office Supplies,Cancelled,798,19.09,17.76,100,yes,High,Finance
+PO-00206,SUP-332477,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,10-03-2023,22-03-2023,Electronics,Delivered,1728,94.83,90.2,100,YES,Low,Operations
+PO-00207,SUP-114453,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,05-08-2022,,MRO,Delivered,1244,96.13,84.78,43,YES,High,Operations
+PO-00208,SUP-804536,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,07-07-2023,21-07-2023,Office Supplies,Delivered,590,16.89,15.56,46,no,High,Finance
+PO-00209,SUP-726296,Atlanta Industrial LLC,United States,Atlanta,8.12.23,23-12-2023,Packaging,Delivered,1109,38.93,33.33,152,yes,High,Finance
+PO-00210,SUP-594902,Turin Industrial SRL,Italy,Turin,25.07.22,01-08-2022,MRO,Delivered,574,85.03,82.55,54,YES,High,Operations
+PO-00211,SUP-542709,Marseille Industrial SARL,France,Marseille,1.01.24,,Office Supplies,Delivered,1233,86.62,76.59,65,YES,High,R&D
+PO-00212,SUP-376210,Dallas Industrial LLC,United States,Dallas,16.11.22,20-11-2022,Packaging,Delivered,1912,27.94,25.59,83,NO,Medium,IT
+PO-00213,SUP-972425,Milan Industrial SRL,Italy,Milan,13.02.23,04-03-2023,Packaging,Delivered,1772,30.72,27.76,46,NO,High,Operations
+PO-00214,SUP-484990,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,19.11.23,29-11-2023,Office Supplies,Delivered,1316,48.11,41.9,135,yes,High,Finance
+PO-00215,SUP-598710,Paris Industrial SARL,France,Paris,28.10.23,,Office Supplies,Delivered,1159,59.24,58.08,,YES,Medium,Operations
+PO-00216,SUP-488187,"Ningbo Industrial Co., Ltd.",China,Ningbo,18.01.23,31-01-2023,Office Supplies,Delivered,1869,69.58,67.5,31,YES,Medium,IT
+PO-00217,SUP-526577,Marseille Industrial SARL,France,Marseille,25.03.23,13-04-2023,Packaging,Delivered,627,46.23,42.87,,YES,Medium,Manufacturing
+PO-00218,SUP-651801,"Ho Chi Minh City Industrial Co., Ltd.",Vietnam,Ho Chi Minh City,14-06-2023,16-06-2023,Raw Materials,Pending,731,56.02,54.78,70,NO,High,Manufacturing
+PO-00219,SUP-689577,Milan Industrial SRL,Italy,Milan,08-04-2023,,Office Supplies,Cancelled,606,83.07,79.22,16,YES,Low,IT
+PO-00220,SUP-762535,"Guangzhou Industrial Co., Ltd.",China,Guangzhou,04-05-2022,14-05-2022,Office Supplies,Delivered,1647,13.57,12.33,157,YES,High,IT
+PO-00221,SUP-692597,Chicago Industrial LLC,United States,Chicago,11-09-2022,19-09-2022,MRO,Delivered,1062,34.03,30.46,,YES,High,Manufacturing
+PO-00222,SUP-143521,Paris Industrial SARL,France,Paris,19-08-2022,31-08-2022,Office Supplies,Delivered,695,76.8,69.76,,NO,High,Manufacturing
+PO-00223,SUP-465159,Mumbai Industrial Pvt Ltd,India,Mumbai,07-03-2022,14-03-2022,MRO,Delivered,845,91.47,86.97,,YES,High,IT
+PO-00224,SUP-197322,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,13-12-2022,18-12-2022,MRO,Delivered,1101,59.13,52.51,54,YES,Medium,IT
+PO-00225,SUP-159301,San Jose Industrial LLC,United States,San Jose,22-01-2022,24-01-2022,Raw Materials,Delivered,1693,57.89,49.84,88,YES,High,IT
+PO-00226,SUP-165667,Hamburg Industrial GmbH,Germany,Hamburg,26-08-2023,10-09-2023,Office Supplies,Cancelled,1629,21.51,19.41,250,NO,Medium,Operations
+PO-00227,SUP-734896,Stuttgart Industrial GmbH,Germany,Stuttgart,22-07-2023,03-08-2023,Raw Materials,Delivered,1413,54.79,50.42,,YES,Low,Manufacturing
+PO-00228,SUP-912064,Stuttgart Industrial GmbH,Germany,Stuttgart,24-08-2022,27-08-2022,Packaging,Delivered,1871,59.96,58.54,47,yes,Low,Finance
+PO-00229,SUP-559084,Pune Industrial Pvt Ltd,India,Pune,26-08-2023,,Raw Materials,Delivered,1404,34.85,30.5,78,YES,High,R&D
+PO-00230,SUP-547266,"Shanghai Industrial Co., Ltd.",China,Shanghai,14-08-2022,28-08-2022,Electronics,Delivered,1713,35.43,34.11,74,YES,Medium,IT
+PO-00231,SUP-384779,Campinas Industrial Ltda,Brazil,Campinas,08-01-2022,13-01-2022,Electronics,Delivered,1579,43.96,43.41,74,YES,Low,R&D
+PO-00232,SUP-384446,Bologna Industrial SRL,Italy,Bologna,14-03-2022,26-03-2022,Electronics,Delivered,1421,11.92,11.72,76,YES,Medium,Manufacturing
+PO-00233,SUP-302877,Frankfurt Industrial GmbH,Germany,Frankfurt,26-12-2023,04-01-2024,MRO,Delivered,1546,43.47,37.37,53,YES,Medium,Operations
+PO-00234,SUP-754852,Berlin Industrial GmbH,Germany,Berlin,9.10.23,18-10-2023,Electronics,Delivered,1304,32.08,29.36,,YES,Medium,IT
+PO-00235,SUP-417419,Stuttgart Industrial GmbH,Germany,Stuttgart,2.03.22,,Raw Materials,Delivered,239,39.87,35.47,32,yes,Medium,Finance
+PO-00236,SUP-972156,Bologna Industrial SRL,Italy,Bologna,23.08.22,,Office Supplies,Delivered,1298,21.51,20.83,,YES,Low,IT
+PO-00237,SUP-406247,Turin Industrial SRL,Italy,Turin,11.03.22,,MRO,Delivered,1458,91.05,81.56,220,YES,Medium,R&D
+PO-00238,SUP-416634,Mexico City Industrial S.A.,Mexico,Mexico City,2.02.22,13-02-2022,MRO,Delivered,1450,63.74,59.11,71,YES,Low,Manufacturing
+PO-00239,SUP-516193,"Shanghai Industrial Co., Ltd.",China,Shanghai,5.12.22,20-12-2022,Electronics,Delivered,1356,75.03,63.86,131,YES,Low,Manufacturing
+PO-00240,SUP-375015,Lyon Industrial SARL,France,Lyon,14.03.22,,Packaging,Delivered,682,81.84,71.86,40,yes,High,Finance
+PO-00241,SUP-639008,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,11.06.23,19-06-2023,Packaging,Delivered,677,59.52,55.29,39,yes,Medium,Finance
+PO-00242,SUP-379626,"Ho Chi Minh City Industrial Co., Ltd.",Vietnam,Ho Chi Minh City,1.09.22,14-09-2022,Office Supplies,Delivered,1022,18.54,16.55,150,YES,Medium,Manufacturing
+PO-00243,SUP-343750,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,13.10.22,,Raw Materials,Delivered,1818,60.96,57.13,41,YES,Medium,IT
+PO-00244,SUP-190426,London Industrial Ltd,United Kingdom,London,17.11.23,29-11-2023,Electronics,Delivered,1332,69.73,63.8,41,YES,Medium,Manufacturing
+PO-00245,SUP-901099,Milan Industrial SRL,Italy,Milan,13.05.23,26-05-2023,Raw Materials,Delivered,1432,83.26,77.67,174,yes,Low,Finance
+PO-00246,SUP-457223,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,08-08-2022,26-08-2022,Packaging,Pending,759,50.56,46.47,63,NO,Medium,Operations
+PO-00247,SUP-467052,Paris Industrial SARL,France,Paris,07-07-2023,19-07-2023,Packaging,Delivered,1529,23.42,22.44,30,YES,Medium,R&D
+PO-00248,SUP-462790,Campinas Industrial Ltda,Brazil,Campinas,16-05-2022,25-05-2022,Electronics,Delivered,1484,36.25,31.8,61,YES,High,R&D
+PO-00249,SUP-842784,Turin Industrial SRL,Italy,Turin,08-08-2023,20-08-2023,Packaging,Delivered,698,46.73,45.61,15,yes,Low,Finance
+PO-00250,SUP-752031,Monterrey Industrial S.A.,Mexico,Monterrey,14-08-2023,22-08-2023,Packaging,Pending,367,74.61,71.36,13,YES,High,Operations
+PO-00251,SUP-622754,Monterrey Industrial S.A.,Mexico,Monterrey,30-04-2023,20-05-2023,Office Supplies,Partially Delivered,1750,65.97,58.34,50,YES,Low,IT
+PO-00252,SUP-403419,Mexico City Industrial S.A.,Mexico,Mexico City,06-09-2022,24-09-2022,Office Supplies,Partially Delivered,1298,43.73,37.21,,NO,High,R&D
+PO-00253,SUP-300034,London Industrial Ltd,United Kingdom,London,30-04-2023,20-05-2023,Packaging,Delivered,1892,106.2,96.37,93,YES,High,IT
+PO-00254,SUP-413931,Atlanta Industrial LLC,United States,Atlanta,21-02-2023,24-02-2023,Electronics,Delivered,1307,68.71,60.64,141,YES,Medium,IT
+PO-00255,SUP-170647,"Ningbo Industrial Co., Ltd.",China,Ningbo,14-07-2022,29-07-2022,Electronics,Delivered,733,32.29,29.01,78,YES,Medium,Manufacturing
+PO-00256,SUP-228006,Dallas Industrial LLC,United States,Dallas,07-04-2022,,Packaging,Delivered,713,19.45,18.82,31,YES,Low,R&D
+PO-00257,SUP-140542,Mexico City Industrial S.A.,Mexico,Mexico City,10-04-2022,24-04-2022,Packaging,Delivered,1900,24.11,23.45,188,YES,High,R&D
+PO-00258,SUP-344081,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,06-11-2023,08-11-2023,MRO,Cancelled,1447,35.67,35.07,224,NO,High,IT
+PO-00259,SUP-777809,Paris Industrial SARL,France,Paris,18-03-2023,,Office Supplies,Delivered,1745,26.17,22.25,55,yes,High,Finance
+PO-00260,SUP-362170,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,29-12-2022,14-01-2023,Office Supplies,Delivered,1681,28.26,26.62,143,YES,Medium,Manufacturing
+PO-00261,SUP-278631,"Shanghai Industrial Co., Ltd.",China,Shanghai,10-03-2023,18-03-2023,Electronics,Delivered,1545,38.15,36.96,214,YES,High,Operations
+PO-00262,SUP-933365,Mexico City Industrial S.A.,Mexico,Mexico City,25-02-2023,02-03-2023,Raw Materials,Delivered,1306,27.27,25.96,39,YES,Medium,IT
+PO-00263,SUP-506514,Delhi Industrial Pvt Ltd,India,Delhi,24-04-2023,06-05-2023,Raw Materials,Delivered,1765,97.51,84.3,65,YES,Low,IT
+PO-00264,SUP-724132,Turin Industrial SRL,Italy,Turin,25-02-2022,15-03-2022,Packaging,Cancelled,1186,17.31,16,64,yes,Low,Finance
+PO-00265,SUP-294594,"Ho Chi Minh City Industrial Co., Ltd.",Vietnam,Ho Chi Minh City,21-11-2023,26-11-2023,Packaging,Delivered,1903,63.5,56.09,254,YES,High,Manufacturing
+PO-00266,SUP-295243,Turin Industrial SRL,Italy,Turin,01-11-2023,05-11-2023,MRO,Delivered,1570,52.1,47.87,,no,Low,Finance
+PO-00267,SUP-454919,Milan Industrial SRL,Italy,Milan,24-10-2023,13-11-2023,MRO,Delivered,491,108.75,93.35,,NO,Low,R&D
+PO-00268,SUP-958427,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,11-04-2022,20-04-2022,Electronics,Partially Delivered,613,20.38,20.17,58,YES,Low,Operations
+PO-00269,SUP-511672,Bangalore Industrial Pvt Ltd,India,Bangalore,04-03-2022,16-03-2022,Raw Materials,Partially Delivered,1341,46.27,43.94,63,YES,Low,R&D
+PO-00270,SUP-608629,Marseille Industrial SARL,France,Marseille,17-02-2023,04-03-2023,MRO,Partially Delivered,1583,103.57,89.38,164,YES,Medium,R&D
+PO-00271,SUP-718969,"Shanghai Industrial Co., Ltd.",China,Shanghai,14-12-2022,,Raw Materials,Cancelled,1880,92.73,90.78,173,YES,Low,Operations
+PO-00272,SUP-130227,Stuttgart Industrial GmbH,Germany,Stuttgart,22-04-2022,26-04-2022,MRO,Delivered,1459,84.79,82.72,47,yes,Low,Finance
+PO-00273,SUP-367244,Turin Industrial SRL,Italy,Turin,12-09-2022,,Office Supplies,Delivered,1460,34.54,31.87,208,NO,Medium,IT
+PO-00274,SUP-971792,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,16-07-2022,28-07-2022,Packaging,Partially Delivered,1186,26.14,24.78,112,yes,Low,Finance
+PO-00275,SUP-607628,Lyon Industrial SARL,France,Lyon,14-07-2022,23-07-2022,MRO,Pending,1686,72.28,65.21,53,YES,High,Manufacturing
+PO-00276,SUP-626750,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,04-07-2023,08-07-2023,MRO,Delivered,1698,102.07,100.69,28,yes,High,Finance
+PO-00277,SUP-470696,Milan Industrial SRL,Italy,Milan,05-04-2023,,Electronics,Delivered,1001,64.62,55.7,32,YES,High,Manufacturing
+PO-00278,SUP-300432,"Ningbo Industrial Co., Ltd.",China,Ningbo,24-05-2022,27-05-2022,Office Supplies,Delivered,1154,62.67,54.11,25,YES,Medium,IT
+PO-00279,SUP-130996,Guadalajara Industrial S.A.,Mexico,Guadalajara,09-03-2023,29-03-2023,Packaging,Cancelled,748,37.66,32.71,,NO,High,Manufacturing
+PO-00280,SUP-391473,"Beijing Industrial Co., Ltd.",China,Beijing,07-07-2022,,Office Supplies,Delivered,162,81.63,78.76,2,yes,Medium,Finance
+PO-00281,SUP-889896,Mexico City Industrial S.A.,Mexico,Mexico City,13-10-2022,24-10-2022,Packaging,Delivered,51,28.04,24.13,0,YES,High,Manufacturing
+PO-00282,SUP-906559,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,19-04-2023,24-04-2023,Office Supplies,Delivered,691,42.07,39.1,106,YES,Low,Operations
+PO-00283,SUP-838437,Campinas Industrial Ltda,Brazil,Campinas,13-09-2022,20-09-2022,Office Supplies,Delivered,269,50.22,45.75,32,NO,Medium,Operations
+PO-00284,SUP-825821,Chennai Industrial Pvt Ltd,India,Chennai,19-03-2022,06-04-2022,Electronics,Pending,1639,56.24,55.4,147,YES,Low,IT
+PO-00285,SUP-105247,Chennai Industrial Pvt Ltd,India,Chennai,30-03-2023,06-04-2023,Raw Materials,Delivered,904,34.04,30.06,26,YES,High,Operations
+PO-00286,SUP-376808,Manchester Industrial Ltd,United Kingdom,Manchester,18-07-2023,26-07-2023,Office Supplies,Delivered,1809,22.17,19.65,,YES,Low,IT
+PO-00287,SUP-367800,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,11-04-2022,16-04-2022,Packaging,Delivered,1298,65.93,58.95,,yes,High,Finance
+PO-00288,SUP-845237,Frankfurt Industrial GmbH,Germany,Frankfurt,21-02-2022,13-03-2022,Packaging,Delivered,434,36.16,34.79,41,yes,Medium,Finance
+PO-00289,SUP-509068,New York Industrial LLC,United States,New York,30-10-2023,04-11-2023,Electronics,Delivered,1476,68.85,65.28,43,YES,Medium,Manufacturing
+PO-00290,SUP-247141,"Shanghai Industrial Co., Ltd.",China,Shanghai,08-07-2023,,Raw Materials,Partially Delivered,1711,26.04,24.81,290,yes,High,Finance
+PO-00291,SUP-819986,London Industrial Ltd,United Kingdom,London,16.01.22,22-01-2022,Packaging,Delivered,1203,53.3,47.68,49,YES,High,Operations
+PO-00292,SUP-203347,Chennai Industrial Pvt Ltd,India,Chennai,6.04.22,07-04-2022,Electronics,Delivered,1126,58.8,52.22,,YES,High,R&D
+PO-00293,SUP-657691,Delhi Industrial Pvt Ltd,India,Delhi,31.08.22,12-09-2022,Packaging,Delivered,1757,15.18,13.06,63,YES,Low,Manufacturing
+PO-00294,SUP-667819,Monterrey Industrial S.A.,Mexico,Monterrey,20.06.22,28-06-2022,MRO,Delivered,779,41.3,36.28,20,YES,High,Manufacturing
+PO-00295,SUP-441502,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,21.02.23,22-02-2023,Office Supplies,Delivered,1745,23.53,22.57,282,no,High,Finance
+PO-00296,SUP-759908,Mexico City Industrial S.A.,Mexico,Mexico City,13.05.23,15-05-2023,Raw Materials,Delivered,1783,16.96,15.8,295,YES,High,Operations
+PO-00297,SUP-498612,Dallas Industrial LLC,United States,Dallas,8.05.23,22-05-2023,Office Supplies,Partially Delivered,1489,107.02,93.3,,YES,Medium,IT
+PO-00298,SUP-832924,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,7.08.22,10-08-2022,Office Supplies,Delivered,296,40.38,35.25,,YES,Low,IT
+PO-00299,SUP-848965,Berlin Industrial GmbH,Germany,Berlin,15.02.23,27-02-2023,MRO,Delivered,885,88.28,80.8,31,YES,Low,IT
+PO-00300,SUP-999817,Milan Industrial SRL,Italy,Milan,2.03.22,06-03-2022,Raw Materials,Pending,1512,33.25,30.15,53,YES,Medium,Manufacturing
+PO-00301,SUP-603718,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,18.06.22,26-06-2022,Office Supplies,Delivered,252,73.12,67.64,,NO,Low,IT
+PO-00302,SUP-240935,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,24.01.23,,Electronics,Cancelled,1257,83.13,81.89,30,YES,Medium,R&D
+PO-00303,SUP-258476,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,3.01.22,20-01-2022,Packaging,Delivered,172,63.61,55.92,4,YES,High,R&D
+PO-00304,SUP-257059,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,4.02.23,05-02-2023,Packaging,Pending,450,55.85,49.88,9,yes,High,Finance
+PO-00305,SUP-302906,Delhi Industrial Pvt Ltd,India,Delhi,29.09.22,15-10-2022,Electronics,Delivered,816,48.95,43.42,45,yes,Medium,Finance
+PO-00306,SUP-782012,Munich Industrial GmbH,Germany,Munich,11.04.23,25-04-2023,Packaging,Delivered,343,44.5,38.57,7,YES,Medium,Operations
+PO-00307,SUP-328778,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,20.10.22,05-11-2022,MRO,Delivered,329,97.87,85.35,21,NO,Low,IT
+PO-00308,SUP-801458,Bologna Industrial SRL,Italy,Bologna,10.03.23,25-03-2023,Electronics,Delivered,1910,90.69,85.8,,YES,High,Operations
+PO-00309,SUP-430511,Berlin Industrial GmbH,Germany,Berlin,15.12.23,18-12-2023,MRO,Delivered,933,107.99,104.29,29,YES,Low,R&D
+PO-00310,SUP-232755,Monterrey Industrial S.A.,Mexico,Monterrey,24.07.23,29-07-2023,Raw Materials,Delivered,1683,23.09,21.88,253,yes,Medium,Finance
+PO-00311,SUP-244176,Manchester Industrial Ltd,United Kingdom,Manchester,9.11.23,18-11-2023,Packaging,Pending,247,84.11,71.97,,YES,Low,IT
+PO-00312,SUP-662149,Frankfurt Industrial GmbH,Germany,Frankfurt,14.05.23,02-06-2023,MRO,Delivered,1031,102.01,98.65,,YES,Low,IT
+PO-00313,SUP-161648,Turin Industrial SRL,Italy,Turin,8.06.22,19-06-2022,Packaging,Delivered,1980,26.97,24.16,41,YES,Medium,Operations
+PO-00314,SUP-674523,Bangalore Industrial Pvt Ltd,India,Bangalore,14.07.22,03-08-2022,Raw Materials,Delivered,1584,16.46,14.2,57,YES,Medium,R&D
+PO-00315,SUP-898738,Pune Industrial Pvt Ltd,India,Pune,31.10.22,15-11-2022,Office Supplies,Delivered,801,80.15,70.91,,YES,High,IT
+PO-00316,SUP-246723,New York Industrial LLC,United States,New York,11.08.22,25-08-2022,Packaging,Delivered,193,63.86,57.46,,yes,Medium,Finance
+PO-00317,SUP-886708,Pune Industrial Pvt Ltd,India,Pune,1.03.22,05-03-2022,Raw Materials,Delivered,658,86.62,79.85,72,YES,Medium,Manufacturing
+PO-00318,SUP-827901,London Industrial Ltd,United Kingdom,London,17.08.23,04-09-2023,Electronics,Delivered,1274,24.72,23.36,37,YES,Medium,Manufacturing
+PO-00319,SUP-886536,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,10.07.23,17-07-2023,Packaging,Partially Delivered,1197,88.92,78.82,31,yes,Medium,Finance
+PO-00320,SUP-139547,Bologna Industrial SRL,Italy,Bologna,4.03.22,12-03-2022,Electronics,Delivered,236,28.43,28.11,11,YES,Low,R&D
+PO-00321,SUP-216084,Berlin Industrial GmbH,Germany,Berlin,18.11.22,03-12-2022,Raw Materials,Partially Delivered,1399,25.97,22.19,62,YES,High,IT
+PO-00322,SUP-346944,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,28.02.22,04-03-2022,Electronics,Delivered,513,24.91,22.58,29,YES,High,R&D
+PO-00323,SUP-841932,Bologna Industrial SRL,Italy,Bologna,21.02.22,04-03-2022,MRO,Delivered,1422,83.73,76.47,198,yes,Medium,Finance
+PO-00324,SUP-459396,Bangalore Industrial Pvt Ltd,India,Bangalore,22.08.23,03-09-2023,Office Supplies,Delivered,1844,76.51,73.05,,yes,Low,Finance
+PO-00325,SUP-476044,Pune Industrial Pvt Ltd,India,Pune,4.05.23,,Electronics,Delivered,709,61.64,54.55,41,YES,Medium,IT
+PO-00326,SUP-195536,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,30.05.23,15-06-2023,MRO,Delivered,813,45.68,41.78,,NO,Low,Manufacturing
+PO-00327,SUP-210044,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,28.06.23,01-07-2023,Office Supplies,Delivered,1004,96.51,92.9,146,NO,Medium,Manufacturing
+PO-00328,SUP-265541,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,11.06.22,15-06-2022,Raw Materials,Delivered,452,46.45,40.39,9,yes,High,Finance
+PO-00329,SUP-169639,Frankfurt Industrial GmbH,Germany,Frankfurt,28.02.22,12-03-2022,Raw Materials,Pending,1419,83.91,71.46,137,YES,Medium,R&D
+PO-00330,SUP-401820,Monterrey Industrial S.A.,Mexico,Monterrey,5.06.23,23-06-2023,Packaging,Delivered,1584,53.73,51.92,167,NO,Low,Manufacturing
+PO-00331,SUP-632443,Mexico City Industrial S.A.,Mexico,Mexico City,24.03.22,11-04-2022,MRO,Pending,196,44.36,43.81,6,YES,Medium,Operations
+PO-00332,SUP-385806,Bologna Industrial SRL,Italy,Bologna,10.07.22,14-07-2022,Office Supplies,Delivered,1221,53.19,46.18,29,YES,Low,Manufacturing
+PO-00333,SUP-393449,Stuttgart Industrial GmbH,Germany,Stuttgart,12.03.22,26-03-2022,Packaging,Delivered,913,37.5,36.2,,YES,High,Operations
+PO-00334,SUP-561636,Marseille Industrial SARL,France,Marseille,2.09.23,04-09-2023,Packaging,Delivered,1784,85.01,76.69,37,YES,High,IT
+PO-00335,SUP-306928,Milan Industrial SRL,Italy,Milan,11.03.22,,Raw Materials,Delivered,1893,55.8,52.35,,YES,Medium,IT
+PO-00336,SUP-110866,Milan Industrial SRL,Italy,Milan,23.11.23,05-12-2023,Electronics,Pending,538,34.3,32.25,84,no,Medium,Finance
+PO-00337,SUP-654468,Dallas Industrial LLC,United States,Dallas,29.08.22,15-09-2022,Office Supplies,Pending,978,94.15,87.7,149,NO,Low,R&D
+PO-00338,SUP-155766,Paris Industrial SARL,France,Paris,18.02.23,06-03-2023,Raw Materials,Cancelled,1713,47.45,42.05,53,yes,Medium,Finance
+PO-00339,SUP-578583,Bangalore Industrial Pvt Ltd,India,Bangalore,3.05.22,07-05-2022,Raw Materials,Pending,600,60.1,57.92,95,NO,High,Operations
+PO-00340,SUP-968118,Stuttgart Industrial GmbH,Germany,Stuttgart,7.08.23,25-08-2023,Electronics,Pending,387,100.28,85.54,5,YES,Medium,R&D
+PO-00341,SUP-600646,Campinas Industrial Ltda,Brazil,Campinas,10.09.22,19-09-2022,MRO,Pending,921,68.83,59.13,22,yes,Low,Finance
+PO-00342,SUP-236210,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,16.08.23,30-08-2023,MRO,Delivered,690,22.47,21.94,77,YES,High,Manufacturing
+PO-00343,SUP-708112,Birmingham Industrial Ltd,United Kingdom,Birmingham,1.09.23,21-09-2023,Office Supplies,Cancelled,1852,104.04,94.89,36,YES,High,Operations
+PO-00344,SUP-965527,Turin Industrial SRL,Italy,Turin,10.02.22,28-02-2022,Electronics,Delivered,522,66.83,58.01,74,yes,Medium,Finance
+PO-00345,SUP-739116,Dallas Industrial LLC,United States,Dallas,27.09.23,06-10-2023,Electronics,Delivered,200,44.16,43.13,21,YES,High,Operations
+PO-00346,SUP-951253,Campinas Industrial Ltda,Brazil,Campinas,25.03.22,03-04-2022,Packaging,Delivered,1488,22.76,21.99,,YES,Low,Operations
+PO-00347,SUP-663431,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,6.03.23,16-03-2023,Electronics,Delivered,1371,87.16,78.13,43,YES,Medium,Manufacturing
+PO-00348,SUP-254984,Bologna Industrial SRL,Italy,Bologna,5.11.23,,Office Supplies,Delivered,1684,73.05,62.53,,YES,Medium,Operations
+PO-00349,SUP-227769,Guadalajara Industrial S.A.,Mexico,Guadalajara,21.08.23,27-08-2023,Electronics,Delivered,312,63.52,58.09,,YES,Medium,Manufacturing
+PO-00350,SUP-474686,"Guangzhou Industrial Co., Ltd.",China,Guangzhou,2.08.23,21-08-2023,Packaging,Cancelled,1837,99.04,86.51,39,YES,Medium,Manufacturing
+PO-00351,SUP-315388,Milan Industrial SRL,Italy,Milan,20.06.23,23-06-2023,MRO,Delivered,193,87.86,81.74,21,YES,High,R&D
+PO-00352,SUP-743921,Milan Industrial SRL,Italy,Milan,20.11.22,21-11-2022,Electronics,Delivered,395,24.83,23.96,31,yes,Low,Finance
+PO-00353,SUP-737364,Marseille Industrial SARL,France,Marseille,25.09.22,12-10-2022,Electronics,Cancelled,673,39.58,35.83,25,YES,High,Manufacturing
+PO-00354,SUP-693267,Frankfurt Industrial GmbH,Germany,Frankfurt,29.07.22,12-08-2022,Office Supplies,Cancelled,1066,33.33,28.47,162,NO,High,Operations
+PO-00355,SUP-858579,Chicago Industrial LLC,United States,Chicago,17.11.23,23-11-2023,Packaging,Delivered,1645,85.42,80.78,73,NO,Low,R&D
+PO-00356,SUP-482317,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,18.11.22,29-11-2022,Electronics,Delivered,930,13.67,11.95,16,YES,High,R&D
+PO-00357,SUP-308545,Bologna Industrial SRL,Italy,Bologna,2.09.22,21-09-2022,Office Supplies,Delivered,51,63.74,56.1,0,YES,Medium,Manufacturing
+PO-00358,SUP-478915,Mexico City Industrial S.A.,Mexico,Mexico City,29.09.22,01-10-2022,Packaging,Delivered,946,81.77,71.65,55,YES,Low,Manufacturing
+PO-00359,SUP-143022,Mexico City Industrial S.A.,Mexico,Mexico City,10.02.23,02-03-2023,Raw Materials,Partially Delivered,1377,94.69,84.2,,yes,High,Finance
+PO-00360,SUP-927623,Turin Industrial SRL,Italy,Turin,15.05.22,18-05-2022,Packaging,Cancelled,303,41.6,40.51,11,YES,High,R&D
+PO-00361,SUP-898281,Birmingham Industrial Ltd,United Kingdom,Birmingham,19.11.23,03-12-2023,Raw Materials,Delivered,1725,93.14,79.62,24,YES,Medium,Manufacturing
+PO-00362,SUP-579595,Delhi Industrial Pvt Ltd,India,Delhi,23.10.23,07-11-2023,Raw Materials,Cancelled,502,22.05,20.65,50,NO,High,Manufacturing
+PO-00363,SUP-889120,Birmingham Industrial Ltd,United Kingdom,Birmingham,4.11.22,11-11-2022,Packaging,Delivered,1110,90.49,80.03,61,YES,High,Manufacturing
+PO-00364,SUP-909844,Milan Industrial SRL,Italy,Milan,14.04.23,18-04-2023,Packaging,Delivered,1233,23.08,20.57,,YES,Low,Operations
+PO-00365,SUP-340767,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,20.11.22,24-11-2022,Office Supplies,Delivered,1064,48.04,43.6,94,YES,Medium,Operations
+PO-00366,SUP-144282,Turin Industrial SRL,Italy,Turin,16.03.22,04-04-2022,Packaging,Partially Delivered,58,82.57,76.55,,yes,High,Finance
+PO-00367,SUP-592532,Chicago Industrial LLC,United States,Chicago,10.01.22,20-01-2022,MRO,Delivered,1306,23.49,20.17,116,NO,Low,IT
+PO-00368,SUP-220163,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,15.04.23,28-04-2023,Electronics,Delivered,1172,32.93,29.28,,NO,Medium,Operations
+PO-00369,SUP-470086,Mumbai Industrial Pvt Ltd,India,Mumbai,29.09.23,,Packaging,Delivered,1732,82.5,71.71,24,YES,Medium,Operations
+PO-00370,SUP-862233,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,31.07.23,07-08-2023,Raw Materials,Delivered,865,81.54,71.59,39,YES,Medium,IT
+PO-00371,SUP-908217,"Shanghai Industrial Co., Ltd.",China,Shanghai,13.04.22,20-04-2022,Raw Materials,Delivered,257,68.72,66.92,22,YES,High,Operations
+PO-00372,SUP-544655,Guadalajara Industrial S.A.,Mexico,Guadalajara,17.03.22,26-03-2022,Packaging,Delivered,1204,73.18,67.59,31,YES,Low,Operations
+PO-00373,SUP-208431,Marseille Industrial SARL,France,Marseille,5.07.23,09-07-2023,Electronics,Partially Delivered,453,64.14,60.18,51,YES,High,Operations
+PO-00374,SUP-777401,San Jose Industrial LLC,United States,San Jose,7.08.22,21-08-2022,Electronics,Delivered,201,33.81,32.54,3,YES,Medium,Operations
+PO-00375,SUP-674142,London Industrial Ltd,United Kingdom,London,3.06.23,16-06-2023,Office Supplies,Delivered,103,44.61,42.88,10,yes,Medium,Finance
+PO-00376,SUP-982749,Marseille Industrial SARL,France,Marseille,29.09.22,07-10-2022,Office Supplies,Delivered,1193,27.4,27.09,,YES,Low,Manufacturing
+PO-00377,SUP-987484,Paris Industrial SARL,France,Paris,16.05.22,28-05-2022,Office Supplies,Partially Delivered,1746,93.6,89.81,85,yes,Low,Finance
+PO-00378,SUP-980959,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,24.12.22,26-12-2022,Electronics,Delivered,1993,65.94,59.36,,YES,Medium,IT
+PO-00379,SUP-148739,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,12.03.22,27-03-2022,Raw Materials,Delivered,677,46.54,43.11,,NO,Low,Manufacturing
+PO-00380,SUP-736251,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,8.09.22,,Office Supplies,Pending,636,53.64,49.23,18,YES,High,Operations
+PO-00381,SUP-721041,Chicago Industrial LLC,United States,Chicago,14.01.23,02-02-2023,Packaging,Delivered,1698,100.97,98.73,52,yes,Medium,Finance
+PO-00382,SUP-123884,Turin Industrial SRL,Italy,Turin,19.10.22,01-11-2022,Office Supplies,Delivered,1493,24.87,22.89,56,yes,Low,Finance
+PO-00383,SUP-473172,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,11.06.22,25-06-2022,Packaging,Delivered,1495,64.33,58.18,26,yes,Medium,Finance
+PO-00384,SUP-666273,Birmingham Industrial Ltd,United Kingdom,Birmingham,25.03.23,07-04-2023,Packaging,Cancelled,153,59.42,52,3,YES,High,IT
+PO-00385,SUP-205153,Mexico City Industrial S.A.,Mexico,Mexico City,11.07.23,22-07-2023,Raw Materials,Cancelled,1925,70.88,63.41,292,yes,Medium,Finance
+PO-00386,SUP-679168,Birmingham Industrial Ltd,United Kingdom,Birmingham,22.12.23,11-01-2024,Packaging,Delivered,303,12.97,11.42,,NO,Low,IT
+PO-00387,SUP-491730,Frankfurt Industrial GmbH,Germany,Frankfurt,6.11.22,18-11-2022,Office Supplies,Delivered,1300,92.92,90.63,,YES,High,R&D
+PO-00388,SUP-815528,Berlin Industrial GmbH,Germany,Berlin,19.09.23,23-09-2023,Raw Materials,Delivered,1185,103.28,99.05,,yes,Low,Finance
+PO-00389,SUP-584606,Mumbai Industrial Pvt Ltd,India,Mumbai,1.11.23,20-11-2023,Raw Materials,Delivered,559,67.56,57.98,15,YES,Medium,R&D
+PO-00390,SUP-871824,"Guangzhou Industrial Co., Ltd.",China,Guangzhou,26.06.23,29-06-2023,Electronics,Pending,1546,78.88,78,38,YES,High,Operations
+PO-00391,SUP-195998,Monterrey Industrial S.A.,Mexico,Monterrey,9.01.22,19-01-2022,Packaging,Delivered,148,93.02,85.96,4,YES,Low,R&D
+PO-00392,SUP-800462,Chicago Industrial LLC,United States,Chicago,15-11-2023,23-11-2023,Office Supplies,Delivered,202,81.75,78.26,37,NO,Low,IT
+PO-00393,SUP-362271,Birmingham Industrial Ltd,United Kingdom,Birmingham,22-07-2023,28-07-2023,Packaging,Delivered,1934,25.86,25.6,78,YES,Medium,Manufacturing
+PO-00394,SUP-136986,Manchester Industrial Ltd,United Kingdom,Manchester,03-11-2022,07-11-2022,Office Supplies,Delivered,963,64.96,64.07,20,yes,Low,Finance
+PO-00395,SUP-759619,Guadalajara Industrial S.A.,Mexico,Guadalajara,11-11-2023,18-11-2023,MRO,Delivered,1969,71.71,61.96,,YES,High,IT
+PO-00396,SUP-517659,Berlin Industrial GmbH,Germany,Berlin,17-04-2022,,Electronics,Delivered,927,48.89,46.05,138,YES,Medium,IT
+PO-00397,SUP-238390,"Guangzhou Industrial Co., Ltd.",China,Guangzhou,18-05-2022,23-05-2022,Raw Materials,Cancelled,387,77.81,69.04,67,YES,Low,Operations
+PO-00398,SUP-834998,Guadalajara Industrial S.A.,Mexico,Guadalajara,28-09-2022,03-10-2022,Electronics,Delivered,1779,97.86,94.36,176,YES,Medium,Operations
+PO-00399,SUP-779038,New York Industrial LLC,United States,New York,29-04-2022,05-05-2022,MRO,Pending,871,94.7,92.66,46,YES,Medium,Manufacturing
+PO-00400,SUP-743606,Birmingham Industrial Ltd,United Kingdom,Birmingham,20-04-2022,23-04-2022,Electronics,Delivered,1236,51.33,44.03,25,YES,Low,R&D
+PO-00401,SUP-850134,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,21-07-2023,06-08-2023,Electronics,Delivered,1793,22.01,21.78,285,YES,High,IT
+PO-00402,SUP-563191,Campinas Industrial Ltda,Brazil,Campinas,09-06-2022,28-06-2022,MRO,Delivered,1006,101.1,89.04,139,YES,High,Manufacturing
+PO-00403,SUP-731865,Bologna Industrial SRL,Italy,Bologna,06-10-2022,21-10-2022,Electronics,Cancelled,1754,89.35,86.54,161,NO,Low,R&D
+PO-00404,SUP-351696,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,16-10-2022,04-11-2022,Electronics,Delivered,210,22.17,21.32,10,YES,High,Operations
+PO-00405,SUP-140663,Turin Industrial SRL,Italy,Turin,12-09-2023,02-10-2023,MRO,Delivered,1653,102.16,91.91,217,YES,High,Operations
+PO-00406,SUP-986141,Paris Industrial SARL,France,Paris,04-08-2022,15-08-2022,MRO,Partially Delivered,850,91.38,88.41,24,YES,Medium,R&D
+PO-00407,SUP-724602,Guadalajara Industrial S.A.,Mexico,Guadalajara,18-12-2022,21-12-2022,Raw Materials,Delivered,447,59.81,57.92,13,YES,Medium,IT
+PO-00408,SUP-372241,Turin Industrial SRL,Italy,Turin,28-07-2022,07-08-2022,Office Supplies,Delivered,1350,65.11,56.95,71,YES,Medium,IT
+PO-00409,SUP-125188,Atlanta Industrial LLC,United States,Atlanta,05-12-2023,24-12-2023,Office Supplies,Delivered,865,51.19,47.76,83,YES,Low,IT
+PO-00410,SUP-157324,London Industrial Ltd,United Kingdom,London,12-10-2023,29-10-2023,MRO,Delivered,1989,16.5,15.89,57,YES,Low,Manufacturing
+PO-00411,SUP-234350,Atlanta Industrial LLC,United States,Atlanta,28-09-2022,13-10-2022,Office Supplies,Delivered,1577,41.77,39.58,32,YES,Low,Operations
+PO-00412,SUP-662043,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,02-06-2023,04-06-2023,Packaging,Pending,1969,89.25,87.28,108,NO,Medium,Manufacturing
+PO-00413,SUP-904545,Hamburg Industrial GmbH,Germany,Hamburg,16-05-2023,26-05-2023,Packaging,Partially Delivered,1465,11.25,9.61,151,YES,Low,Manufacturing
+PO-00414,SUP-596924,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,15-09-2022,18-09-2022,Packaging,Pending,1208,41.62,39.46,,YES,Low,Operations
+PO-00415,SUP-122238,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,22-02-2022,11-03-2022,Raw Materials,Delivered,1268,46.06,45.26,123,YES,Low,Operations
+PO-00416,SUP-462154,Milan Industrial SRL,Italy,Milan,05-04-2022,24-04-2022,Office Supplies,Delivered,450,59.24,55.03,68,no,Medium,Finance
+PO-00417,SUP-940577,Turin Industrial SRL,Italy,Turin,12-10-2023,14-10-2023,Electronics,Partially Delivered,689,102.53,95.23,38,YES,High,R&D
+PO-00418,SUP-223069,Chennai Industrial Pvt Ltd,India,Chennai,10-03-2023,29-03-2023,MRO,Delivered,1106,44.05,38.6,51,YES,Medium,Operations
+PO-00419,SUP-295947,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,11-10-2022,22-10-2022,Office Supplies,Delivered,737,43.08,42.58,21,yes,Medium,Finance
+PO-00420,SUP-276496,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,15-02-2022,04-03-2022,Raw Materials,Delivered,509,76.76,74.72,7,NO,Low,R&D
+PO-00421,SUP-410954,Guadalajara Industrial S.A.,Mexico,Guadalajara,04-01-2022,06-01-2022,Electronics,Delivered,1004,50.7,46.59,27,YES,Medium,R&D
+PO-00422,SUP-105129,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,08-12-2022,19-12-2022,MRO,Pending,1956,31.88,28.48,86,YES,Low,IT
+PO-00423,SUP-605087,"Ho Chi Minh City Industrial Co., Ltd.",Vietnam,Ho Chi Minh City,14-05-2022,,Electronics,Delivered,519,51.73,47.52,81,NO,Medium,Operations
+PO-00424,SUP-442449,Guadalajara Industrial S.A.,Mexico,Guadalajara,15-10-2023,21-10-2023,MRO,Partially Delivered,1448,25.06,21.62,84,YES,Low,Manufacturing
+PO-00425,SUP-810903,Mexico City Industrial S.A.,Mexico,Mexico City,26-09-2022,11-10-2022,Packaging,Delivered,1095,26.91,23.75,53,YES,Low,R&D
+PO-00426,SUP-139609,Berlin Industrial GmbH,Germany,Berlin,15-06-2022,,MRO,Delivered,799,56.22,49.51,18,YES,Medium,R&D
+PO-00427,SUP-593756,Paris Industrial SARL,France,Paris,29-03-2023,18-04-2023,MRO,Partially Delivered,1743,51.04,47.15,160,YES,High,Manufacturing
+PO-00428,SUP-521225,"Guangzhou Industrial Co., Ltd.",China,Guangzhou,19-07-2023,31-07-2023,Raw Materials,Delivered,87,100.65,85.56,1,YES,Medium,IT
+PO-00429,SUP-564213,Bologna Industrial SRL,Italy,Bologna,24-12-2023,,Raw Materials,Delivered,279,47.52,46.5,28,NO,Low,R&D
+PO-00430,SUP-422783,Milan Industrial SRL,Italy,Milan,14-03-2023,25-03-2023,Raw Materials,Delivered,1438,66.61,58.5,237,yes,Medium,Finance
+PO-00431,SUP-699176,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,29-07-2023,31-07-2023,Office Supplies,Partially Delivered,612,72.93,63.32,99,yes,Medium,Finance
+PO-00432,SUP-593450,Mumbai Industrial Pvt Ltd,India,Mumbai,10-01-2022,21-01-2022,Packaging,Pending,487,11.18,10.63,15,YES,Low,R&D
+PO-00433,SUP-670471,London Industrial Ltd,United Kingdom,London,25-04-2022,29-04-2022,Packaging,Partially Delivered,1849,70.76,69.25,51,YES,Low,Operations
+PO-00434,SUP-877227,Paris Industrial SARL,France,Paris,19-03-2022,01-04-2022,MRO,Partially Delivered,1356,26.28,25.44,47,YES,Medium,IT
+PO-00435,SUP-425827,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,09-12-2023,29-12-2023,Raw Materials,Delivered,76,107.59,96.33,10,YES,High,R&D
+PO-00436,SUP-966028,Guadalajara Industrial S.A.,Mexico,Guadalajara,02-06-2022,13-06-2022,Packaging,Partially Delivered,275,23.96,20.44,,YES,High,Operations
+PO-00437,SUP-861166,San Jose Industrial LLC,United States,San Jose,13-07-2023,18-07-2023,Packaging,Delivered,1350,51.57,48.07,,YES,Low,Operations
+PO-00438,SUP-529912,Munich Industrial GmbH,Germany,Munich,06-02-2022,,MRO,Delivered,847,17.77,17.39,,YES,Medium,Manufacturing
+PO-00439,SUP-972141,Berlin Industrial GmbH,Germany,Berlin,14-01-2023,27-01-2023,MRO,Delivered,1682,105.7,101.3,94,YES,Low,R&D
+PO-00440,SUP-134208,Birmingham Industrial Ltd,United Kingdom,Birmingham,20-08-2023,23-08-2023,Electronics,Delivered,333,60.44,58.54,8,YES,Low,IT
+PO-00441,SUP-206821,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,20-07-2023,02-08-2023,Electronics,Cancelled,928,69.31,67.26,20,YES,Medium,Manufacturing
+PO-00442,SUP-454478,Atlanta Industrial LLC,United States,Atlanta,01-06-2022,12-06-2022,MRO,Partially Delivered,1009,16.44,16.18,,YES,High,Operations
+PO-00443,SUP-338572,Manchester Industrial Ltd,United Kingdom,Manchester,17-03-2023,03-04-2023,Electronics,Pending,1554,82.92,74.82,44,YES,Medium,IT
+PO-00444,SUP-718422,Milan Industrial SRL,Italy,Milan,11-05-2022,25-05-2022,Packaging,Partially Delivered,502,29.47,28.94,27,YES,High,IT
+PO-00445,SUP-779161,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,12-02-2022,13-02-2022,MRO,Delivered,1069,91.28,82.64,,YES,High,IT
+PO-00446,SUP-842041,Paris Industrial SARL,France,Paris,12-11-2022,18-11-2022,MRO,Pending,1902,29.89,25.83,41,YES,Medium,R&D
+PO-00447,SUP-384740,London Industrial Ltd,United Kingdom,London,09-01-2023,,Raw Materials,Pending,865,28.79,25.69,47,YES,Medium,IT
+PO-00448,SUP-177244,Berlin Industrial GmbH,Germany,Berlin,10-02-2022,26-02-2022,Packaging,Partially Delivered,708,13.36,11.61,,no,Low,Finance
+PO-00449,SUP-598382,London Industrial Ltd,United Kingdom,London,02-01-2023,07-01-2023,Packaging,Delivered,1589,55.64,48.52,,yes,Low,Finance
+PO-00450,SUP-620598,Milan Industrial SRL,Italy,Milan,04-08-2022,14-08-2022,Office Supplies,Delivered,596,62.96,61.88,9,YES,Low,Operations
+PO-00451,SUP-514148,Delhi Industrial Pvt Ltd,India,Delhi,30-11-2023,04-12-2023,Office Supplies,Delivered,1265,17.66,16.97,34,YES,Low,R&D
+PO-00452,SUP-721606,Paris Industrial SARL,France,Paris,13-09-2022,01-10-2022,Raw Materials,Delivered,1122,82.99,81.7,118,NO,Medium,R&D
+PO-00453,SUP-687822,Frankfurt Industrial GmbH,Germany,Frankfurt,14-11-2023,01-12-2023,Office Supplies,Delivered,1585,56.38,53.05,,YES,High,Operations
+PO-00454,SUP-704676,Hamburg Industrial GmbH,Germany,Hamburg,16-04-2022,27-04-2022,Electronics,Delivered,66,58.05,50.76,,YES,Low,Operations
+PO-00455,SUP-851474,Delhi Industrial Pvt Ltd,India,Delhi,29-12-2022,18-01-2023,MRO,Delivered,1245,52.4,51.65,118,NO,Medium,R&D
+PO-00456,SUP-243979,Guadalajara Industrial S.A.,Mexico,Guadalajara,28-07-2023,10-08-2023,Electronics,Delivered,1293,50.21,47.55,,NO,Low,Operations
+PO-00457,SUP-652347,Campinas Industrial Ltda,Brazil,Campinas,21-02-2023,27-02-2023,Packaging,Delivered,207,64.29,63.01,25,YES,Low,Manufacturing
+PO-00458,SUP-426434,Paris Industrial SARL,France,Paris,28-09-2023,18-10-2023,Office Supplies,Delivered,526,26.37,25.32,47,YES,High,IT
+PO-00459,SUP-235142,Guadalajara Industrial S.A.,Mexico,Guadalajara,08-06-2022,14-06-2022,Electronics,Delivered,1119,27.03,23.82,,YES,Low,Manufacturing
+PO-00460,SUP-459226,"Ho Chi Minh City Industrial Co., Ltd.",Vietnam,Ho Chi Minh City,31-08-2022,02-09-2022,Packaging,Delivered,1446,90.63,84.51,77,yes,Low,Finance
+PO-00461,SUP-281441,Dallas Industrial LLC,United States,Dallas,16-06-2022,24-06-2022,Office Supplies,Delivered,567,97.53,85.29,21,YES,Low,R&D
+PO-00462,SUP-872525,Paris Industrial SARL,France,Paris,01-07-2022,,MRO,Delivered,148,44.91,40.1,,NO,High,Manufacturing
+PO-00463,SUP-897806,"Shanghai Industrial Co., Ltd.",China,Shanghai,27-02-2023,14-03-2023,MRO,Pending,1965,36.6,34.64,195,YES,Low,Operations
+PO-00464,SUP-947368,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,26-01-2022,03-02-2022,Office Supplies,Pending,1818,67.96,58.98,,YES,Low,IT
+PO-00465,SUP-820783,Berlin Industrial GmbH,Germany,Berlin,03-07-2022,19-07-2022,MRO,Delivered,1110,48.19,45.88,112,YES,Medium,Operations
+PO-00466,SUP-988001,New York Industrial LLC,United States,New York,07-12-2022,,Raw Materials,Delivered,329,12.96,12.74,48,YES,High,Operations
+PO-00467,SUP-259232,Berlin Industrial GmbH,Germany,Berlin,26-02-2023,17-03-2023,Office Supplies,Cancelled,1422,25.62,25.18,65,yes,Medium,Finance
+PO-00468,SUP-517833,Marseille Industrial SARL,France,Marseille,17-11-2023,,Raw Materials,Delivered,546,82.63,74.77,76,NO,Low,Operations
+PO-00469,SUP-646353,Delhi Industrial Pvt Ltd,India,Delhi,12-09-2022,22-09-2022,Office Supplies,Partially Delivered,351,72.08,71.3,20,YES,High,Manufacturing
+PO-00470,SUP-619502,Birmingham Industrial Ltd,United Kingdom,Birmingham,01-10-2022,18-10-2022,Raw Materials,Partially Delivered,230,13,12.81,,NO,Medium,R&D
+PO-00471,SUP-296264,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,13-06-2022,19-06-2022,MRO,Delivered,656,30.73,26.26,17,YES,High,R&D
+PO-00472,SUP-903130,Turin Industrial SRL,Italy,Turin,20-12-2023,09-01-2024,MRO,Delivered,1172,34.34,32.09,69,YES,Low,Manufacturing
+PO-00473,SUP-995910,Monterrey Industrial S.A.,Mexico,Monterrey,21-04-2022,30-04-2022,Electronics,Delivered,749,71.53,70.02,41,YES,High,IT
+PO-00474,SUP-848988,Guadalajara Industrial S.A.,Mexico,Guadalajara,27-01-2023,12-02-2023,Packaging,Delivered,1042,12.48,12.3,88,YES,High,Operations
+PO-00475,SUP-358103,Manchester Industrial Ltd,United Kingdom,Manchester,09-02-2022,27-02-2022,Raw Materials,Delivered,1189,19.47,17.15,,no,High,Finance
+PO-00476,SUP-594240,Campinas Industrial Ltda,Brazil,Campinas,27-04-2023,,Office Supplies,Delivered,240,88.14,81.9,4,YES,Low,Manufacturing
+PO-00477,SUP-391936,Hamburg Industrial GmbH,Germany,Hamburg,16-08-2022,02-09-2022,MRO,Delivered,302,26.98,26.47,9,yes,High,Finance
+PO-00478,SUP-536311,Paris Industrial SARL,France,Paris,24-07-2022,03-08-2022,MRO,Pending,1030,70.81,61.58,,NO,Low,Operations
+PO-00479,SUP-251260,Chicago Industrial LLC,United States,Chicago,17-04-2023,23-04-2023,Office Supplies,Delivered,977,33.79,32.25,137,YES,Low,Manufacturing
+PO-00480,SUP-710254,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,25-12-2022,11-01-2023,Packaging,Delivered,1234,19.99,17.66,25,YES,Low,Operations
+PO-00481,SUP-484712,"Ho Chi Minh City Industrial Co., Ltd.",Vietnam,Ho Chi Minh City,09-11-2022,23-11-2022,Office Supplies,Delivered,1329,33.48,33.06,146,YES,Medium,IT
+PO-00482,SUP-133360,Campinas Industrial Ltda,Brazil,Campinas,22-08-2022,30-08-2022,Raw Materials,Delivered,1396,77.63,67.81,58,YES,High,IT
+PO-00483,SUP-946181,"Shanghai Industrial Co., Ltd.",China,Shanghai,17-08-2022,29-08-2022,Raw Materials,Delivered,177,90.06,87.71,7,YES,Low,R&D
+PO-00484,SUP-598799,Atlanta Industrial LLC,United States,Atlanta,25-01-2022,,Electronics,Delivered,67,84.72,73.06,9,YES,Medium,IT
+PO-00485,SUP-925774,San Jose Industrial LLC,United States,San Jose,07-11-2023,20-11-2023,Office Supplies,Delivered,1866,50.78,48.2,96,YES,Low,IT
+PO-00486,SUP-330265,Bangalore Industrial Pvt Ltd,India,Bangalore,17-07-2022,25-07-2022,MRO,Delivered,1808,72.23,67.86,53,yes,High,Finance
+PO-00487,SUP-916508,Stuttgart Industrial GmbH,Germany,Stuttgart,13-02-2023,16-02-2023,Electronics,Cancelled,615,30.3,29.52,96,yes,High,Finance
+PO-00488,SUP-204002,"Ho Chi Minh City Industrial Co., Ltd.",Vietnam,Ho Chi Minh City,03-12-2022,04-12-2022,Office Supplies,Pending,619,38.38,35.02,34,YES,Low,Manufacturing
+PO-00489,SUP-399228,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,13-10-2022,17-10-2022,Office Supplies,Delivered,1396,94.75,84.06,210,YES,Low,IT
+PO-00490,SUP-802487,Campinas Industrial Ltda,Brazil,Campinas,13-03-2022,24-03-2022,MRO,Delivered,1945,11.28,9.98,94,yes,Low,Finance
+PO-00491,SUP-180806,London Industrial Ltd,United Kingdom,London,13-10-2022,18-10-2022,Packaging,Delivered,735,18.49,15.89,113,no,Low,Finance
+PO-00492,SUP-341006,Paris Industrial SARL,France,Paris,26-12-2022,11-01-2023,Office Supplies,Pending,1865,30.29,26.83,56,YES,Medium,R&D
+PO-00493,SUP-867678,Campinas Industrial Ltda,Brazil,Campinas,19-10-2023,24-10-2023,Electronics,Cancelled,675,13.69,11.84,52,YES,Low,Manufacturing
+PO-00494,SUP-776653,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,06-06-2023,22-06-2023,MRO,Pending,1361,28.57,24.29,65,YES,Low,R&D
+PO-00495,SUP-290561,New York Industrial LLC,United States,New York,14-02-2023,15-02-2023,Raw Materials,Delivered,903,66.53,60.15,29,YES,Medium,Manufacturing
+PO-00496,SUP-999716,"Beijing Industrial Co., Ltd.",China,Beijing,27-11-2023,,Packaging,Cancelled,1736,53.2,50.68,48,YES,Medium,IT
+PO-00497,SUP-198014,Guadalajara Industrial S.A.,Mexico,Guadalajara,04-07-2023,11-07-2023,MRO,Delivered,1011,98.47,97.06,91,YES,Medium,Manufacturing
+PO-00498,SUP-467483,"Guangzhou Industrial Co., Ltd.",China,Guangzhou,06-12-2022,24-12-2022,Electronics,Delivered,1712,88.17,85.86,246,YES,Medium,IT
+PO-00499,SUP-864250,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,29-01-2022,,Office Supplies,Delivered,204,40.76,37.46,10,yes,Medium,Finance
+PO-00500,SUP-127452,Chennai Industrial Pvt Ltd,India,Chennai,29-04-2022,13-05-2022,Electronics,Partially Delivered,539,33.85,30.57,34,NO,High,IT
+PO-00501,SUP-126646,Mexico City Industrial S.A.,Mexico,Mexico City,25-09-2022,05-10-2022,Office Supplies,Delivered,1459,45.94,42.56,212,NO,High,R&D
+PO-00502,SUP-841564,Campinas Industrial Ltda,Brazil,Campinas,02-07-2022,06-07-2022,MRO,Delivered,834,65.02,56.19,,YES,Low,R&D
+PO-00503,SUP-783082,Chennai Industrial Pvt Ltd,India,Chennai,18-08-2023,01-09-2023,Packaging,Partially Delivered,1177,37.37,34.27,60,YES,Medium,Operations
+PO-00504,SUP-391391,Birmingham Industrial Ltd,United Kingdom,Birmingham,29-09-2022,19-10-2022,MRO,Delivered,1466,68.82,66.82,211,YES,Low,Operations
+PO-00505,SUP-205270,Turin Industrial SRL,Italy,Turin,09-02-2022,13-02-2022,Electronics,Delivered,1884,47.08,44.31,54,YES,Medium,IT
+PO-00506,SUP-312070,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,22-04-2022,08-05-2022,Electronics,Delivered,295,60.58,57.32,31,YES,High,Operations
+PO-00507,SUP-347411,Delhi Industrial Pvt Ltd,India,Delhi,03-09-2023,04-09-2023,Raw Materials,Delivered,1249,54.18,47.29,59,YES,Low,IT
+PO-00508,SUP-594214,Monterrey Industrial S.A.,Mexico,Monterrey,21-03-2023,09-04-2023,Raw Materials,Delivered,1112,39.06,33.6,184,NO,Medium,IT
+PO-00509,SUP-168225,Marseille Industrial SARL,France,Marseille,20-12-2022,25-12-2022,Office Supplies,Delivered,1550,100.61,97.43,66,YES,High,R&D
+PO-00510,SUP-995790,Munich Industrial GmbH,Germany,Munich,18-11-2022,19-11-2022,Electronics,Delivered,1755,82.66,73.67,258,NO,Low,IT
+PO-00511,SUP-164772,"Ho Chi Minh City Industrial Co., Ltd.",Vietnam,Ho Chi Minh City,23-03-2023,31-03-2023,Raw Materials,Delivered,808,24.19,21.64,39,yes,Medium,Finance
+PO-00512,SUP-953201,Bologna Industrial SRL,Italy,Bologna,13-09-2023,19-09-2023,Raw Materials,Partially Delivered,587,96.98,95.35,14,YES,Low,Operations
+PO-00513,SUP-869360,Milan Industrial SRL,Italy,Milan,08-06-2023,11-06-2023,MRO,Delivered,1940,58.45,50.29,54,yes,High,Finance
+PO-00514,SUP-136651,Bologna Industrial SRL,Italy,Bologna,29-04-2022,11-05-2022,Office Supplies,Cancelled,1891,91.87,80.28,158,YES,High,Manufacturing
+PO-00515,SUP-678515,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,30-01-2023,16-02-2023,Packaging,Delivered,970,86.91,78.44,18,YES,Medium,Operations
+PO-00516,SUP-272750,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,14-08-2023,31-08-2023,MRO,Delivered,457,52.85,50.34,16,yes,Low,Finance
+PO-00517,SUP-225713,Turin Industrial SRL,Italy,Turin,14-07-2022,27-07-2022,Office Supplies,Cancelled,574,12.38,11.47,,NO,Low,Manufacturing
+PO-00518,SUP-927899,Dallas Industrial LLC,United States,Dallas,18-09-2022,20-09-2022,Office Supplies,Delivered,877,35.55,34.69,24,yes,High,Finance
+PO-00519,SUP-594938,Atlanta Industrial LLC,United States,Atlanta,15-02-2022,27-02-2022,MRO,Delivered,1579,59.04,50.95,29,YES,High,Operations
+PO-00520,SUP-351411,Pune Industrial Pvt Ltd,India,Pune,27-12-2023,28-12-2023,Raw Materials,Delivered,952,74.72,69.73,,YES,Medium,Operations
+PO-00521,SUP-136279,Bologna Industrial SRL,Italy,Bologna,23-03-2023,26-03-2023,Raw Materials,Pending,1898,35.53,33.25,187,YES,High,IT
+PO-00522,SUP-452353,Mexico City Industrial S.A.,Mexico,Mexico City,02-01-2022,06-01-2022,Packaging,Delivered,85,22.54,20.68,6,YES,High,R&D
+PO-00523,SUP-595195,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,17-06-2023,28-06-2023,Packaging,Pending,734,92.38,78.92,34,no,High,Finance
+PO-00524,SUP-943163,New York Industrial LLC,United States,New York,06-07-2023,18-07-2023,Office Supplies,Delivered,69,107.47,105.53,,yes,Low,Finance
+PO-00525,SUP-124203,Dallas Industrial LLC,United States,Dallas,05-12-2023,11-12-2023,Packaging,Delivered,370,63.9,55.79,59,YES,High,Operations
+PO-00526,SUP-190814,Pune Industrial Pvt Ltd,India,Pune,18-11-2023,03-12-2023,MRO,Delivered,1849,28.25,27.53,271,YES,High,R&D
+PO-00527,SUP-115607,Campinas Industrial Ltda,Brazil,Campinas,21-07-2022,,Packaging,Delivered,561,35.54,30.99,68,NO,Medium,IT
+PO-00528,SUP-446908,Guadalajara Industrial S.A.,Mexico,Guadalajara,08-01-2023,14-01-2023,Electronics,Delivered,449,12.35,10.67,29,YES,High,Manufacturing
+PO-00529,SUP-586008,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,18-03-2023,21-03-2023,Office Supplies,Delivered,703,98.75,86.78,59,YES,Medium,Operations
+PO-00530,SUP-111921,"Shanghai Industrial Co., Ltd.",China,Shanghai,13-03-2022,28-03-2022,Electronics,Delivered,1021,20.8,18.23,37,YES,High,R&D
+PO-00531,SUP-843605,Birmingham Industrial Ltd,United Kingdom,Birmingham,12-11-2023,19-11-2023,Office Supplies,Delivered,1956,68.69,65.09,,yes,Medium,Finance
+PO-00532,SUP-707013,Chicago Industrial LLC,United States,Chicago,05-12-2022,12-12-2022,Office Supplies,Partially Delivered,520,36.57,34.78,67,NO,Medium,Manufacturing
+PO-00533,SUP-132201,Pune Industrial Pvt Ltd,India,Pune,01-10-2023,12-10-2023,MRO,Delivered,1216,66.16,63,179,NO,Low,R&D
+PO-00534,SUP-287311,Manchester Industrial Ltd,United Kingdom,Manchester,18-11-2022,,Raw Materials,Delivered,1165,72.06,63.93,,YES,High,Manufacturing
+PO-00535,SUP-830264,Monterrey Industrial S.A.,Mexico,Monterrey,11.11.23,29.11.23,Packaging,Pending,1427,93.99,83.6,213,YES,High,IT
+PO-00536,SUP-273539,Munich Industrial GmbH,Germany,Munich,8.05.22,10.05.22,Electronics,Delivered,883,29.15,25.75,14,yes,High,Finance
+PO-00537,SUP-239125,Frankfurt Industrial GmbH,Germany,Frankfurt,4.11.22,11.11.22,Packaging,Partially Delivered,1873,11.54,9.89,284,no,High,Finance
+PO-00538,SUP-164750,Mexico City Industrial S.A.,Mexico,Mexico City,4.06.23,6.06.23,Office Supplies,Delivered,776,24.22,22.53,27,YES,High,Operations
+PO-00539,SUP-219396,Hamburg Industrial GmbH,Germany,Hamburg,13.11.22,24.11.22,Electronics,Delivered,903,95.55,92.45,149,NO,High,Operations
+PO-00540,SUP-131579,London Industrial Ltd,United Kingdom,London,14.11.23,26.11.23,Electronics,Delivered,100,98.4,85.76,3,YES,High,Operations
+PO-00541,SUP-541441,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,23.02.23,8.03.23,Office Supplies,Delivered,1738,67.91,61.15,,yes,Medium,Finance
+PO-00542,SUP-535076,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,1.12.22,14.12.22,Packaging,Delivered,1771,67.57,61.48,280,NO,High,Manufacturing
+PO-00543,SUP-796634,Atlanta Industrial LLC,United States,Atlanta,17.02.23,23.02.23,Electronics,Delivered,624,74.39,66.3,18,NO,High,Operations
+PO-00544,SUP-629282,"Beijing Industrial Co., Ltd.",China,Beijing,15.12.23,31.12.23,Packaging,Partially Delivered,1263,28.75,27.1,26,yes,Low,Finance
+PO-00545,SUP-407126,Guadalajara Industrial S.A.,Mexico,Guadalajara,30.10.22,16.11.22,Electronics,Cancelled,1198,96.45,90.09,,YES,High,Operations
+PO-00546,SUP-163029,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,22.07.23,25.07.23,Raw Materials,Delivered,199,51.98,45.64,,NO,High,R&D
+PO-00547,SUP-180870,Turin Industrial SRL,Italy,Turin,11.05.22,14.05.22,MRO,Pending,363,45.37,38.73,,yes,Medium,Finance
+PO-00548,SUP-910373,Bologna Industrial SRL,Italy,Bologna,16.07.22,22.07.22,Office Supplies,Delivered,619,58.4,51.04,,YES,Low,Operations
+PO-00549,SUP-193054,Monterrey Industrial S.A.,Mexico,Monterrey,7.03.23,18.03.23,MRO,Delivered,1415,15.22,13.56,30,yes,Medium,Finance
+PO-00550,SUP-563456,Paris Industrial SARL,France,Paris,12.11.23,23.11.23,Packaging,Delivered,354,27.71,23.87,39,NO,Low,Manufacturing
+PO-00551,SUP-299221,Marseille Industrial SARL,France,Marseille,24.01.23,3.02.23,MRO,Delivered,1765,81.01,78.43,78,YES,Low,Manufacturing
+PO-00552,SUP-311972,Mexico City Industrial S.A.,Mexico,Mexico City,25.11.23,9.12.23,MRO,Delivered,731,19.37,17.3,69,NO,Low,R&D
+PO-00553,SUP-632218,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,28.06.22,13.07.22,MRO,Delivered,887,65.89,59.67,29,YES,Low,R&D
+PO-00554,SUP-971492,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,23-09-2023,25-09-2023,MRO,Delivered,1856,35.29,32.41,26,yes,Medium,Finance
+PO-00555,SUP-787341,Bologna Industrial SRL,Italy,Bologna,06-08-2023,18-08-2023,Office Supplies,Delivered,1127,49.32,46.49,30,YES,High,R&D
+PO-00556,SUP-713362,Berlin Industrial GmbH,Germany,Berlin,05-11-2022,19-11-2022,Raw Materials,Delivered,1052,37.78,32.6,162,YES,Medium,Operations
+PO-00557,SUP-668685,Pune Industrial Pvt Ltd,India,Pune,20-02-2023,22-02-2023,Raw Materials,Delivered,493,44.74,41.44,24,no,Medium,Finance
+PO-00558,SUP-867184,Guadalajara Industrial S.A.,Mexico,Guadalajara,16-07-2023,29-07-2023,MRO,Partially Delivered,662,81.44,71.33,87,YES,High,Manufacturing
+PO-00559,SUP-284898,Mumbai Industrial Pvt Ltd,India,Mumbai,01-01-2022,07-01-2022,Raw Materials,Delivered,1042,36.74,35.78,33,YES,Medium,IT
+PO-00560,SUP-119726,Munich Industrial GmbH,Germany,Munich,08-11-2022,,Raw Materials,Delivered,313,64.03,57.74,1,YES,Low,Operations
+PO-00561,SUP-253948,Paris Industrial SARL,France,Paris,21-10-2022,10-11-2022,Office Supplies,Delivered,1126,55.22,50.38,,yes,High,Finance
+PO-00562,SUP-827882,Delhi Industrial Pvt Ltd,India,Delhi,04-08-2022,19-08-2022,MRO,Delivered,1645,72.17,64,79,YES,Low,Manufacturing
+PO-00563,SUP-852520,Milan Industrial SRL,Italy,Milan,17-03-2023,20-03-2023,Packaging,Delivered,1053,100.92,92.35,104,YES,Medium,IT
+PO-00564,SUP-238375,Dallas Industrial LLC,United States,Dallas,17-08-2023,29-08-2023,MRO,Delivered,1693,83.14,73.3,62,yes,High,Finance
+PO-00565,SUP-984128,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,14-09-2023,03-10-2023,Raw Materials,Pending,54,32.28,28.65,3,YES,High,Manufacturing
+PO-00566,SUP-263577,Turin Industrial SRL,Italy,Turin,02-11-2023,07-11-2023,Packaging,Delivered,1176,14.22,12.21,33,YES,High,R&D
+PO-00567,SUP-948079,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,26-11-2022,08-12-2022,Raw Materials,Delivered,1269,35.28,33.7,35,YES,Medium,Operations
+PO-00568,SUP-362701,Campinas Industrial Ltda,Brazil,Campinas,22-04-2023,25-04-2023,Raw Materials,Delivered,823,68.32,64.46,19,YES,Medium,Manufacturing
+PO-00569,SUP-380908,London Industrial Ltd,United Kingdom,London,29-03-2023,15-04-2023,Electronics,Delivered,926,15.65,13.49,94,NO,Medium,Manufacturing
+PO-00570,SUP-694707,Birmingham Industrial Ltd,United Kingdom,Birmingham,29-03-2023,09-04-2023,Electronics,Cancelled,1041,58.5,52.54,170,NO,High,IT
+PO-00571,SUP-540514,Campinas Industrial Ltda,Brazil,Campinas,23-11-2023,01-12-2023,Electronics,Pending,933,70.72,65.47,42,YES,Medium,Manufacturing
+PO-00572,SUP-163940,Delhi Industrial Pvt Ltd,India,Delhi,07-08-2022,,Raw Materials,Delivered,1423,41.48,40.9,199,yes,High,Finance
+PO-00573,SUP-176529,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,08-06-2023,14-06-2023,MRO,Delivered,96,86.13,80.32,12,NO,Low,Manufacturing
+PO-00574,SUP-787294,London Industrial Ltd,United Kingdom,London,30-04-2023,13-05-2023,MRO,Delivered,916,21.06,19.53,25,YES,High,Manufacturing
+PO-00575,SUP-764789,Milan Industrial SRL,Italy,Milan,23-06-2022,,Raw Materials,Delivered,872,17.18,16.63,20,YES,Low,Operations
+PO-00576,SUP-496702,Lyon Industrial SARL,France,Lyon,06-11-2023,15-11-2023,Electronics,Delivered,985,83.85,80.88,,NO,High,Operations
+PO-00577,SUP-146058,Marseille Industrial SARL,France,Marseille,28-03-2022,04-04-2022,Raw Materials,Delivered,1893,55.14,50.1,98,YES,Medium,R&D
+PO-00578,SUP-580510,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,18-10-2022,,MRO,Delivered,705,75.19,69.55,19,YES,Low,R&D
+PO-00579,SUP-449200,San Jose Industrial LLC,United States,San Jose,12-06-2023,28-06-2023,MRO,Delivered,318,53.31,51.78,,no,Low,Finance
+PO-00580,SUP-903110,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,11-11-2023,16-11-2023,Office Supplies,Pending,419,35.72,32.74,7,YES,Low,R&D
+PO-00581,SUP-145951,Berlin Industrial GmbH,Germany,Berlin,11-10-2023,26-10-2023,MRO,Delivered,685,92.51,90.05,38,YES,Medium,Operations
+PO-00582,SUP-837752,Guadalajara Industrial S.A.,Mexico,Guadalajara,27-09-2023,12-10-2023,Office Supplies,Partially Delivered,1179,90.14,82.63,194,yes,Low,Finance
+PO-00583,SUP-311543,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,10-12-2022,,Raw Materials,Delivered,1743,76.51,65.88,40,yes,Medium,Finance
+PO-00584,SUP-190908,Lyon Industrial SARL,France,Lyon,06-04-2022,17-04-2022,MRO,Delivered,1732,35.01,34.18,40,YES,Medium,Operations
+PO-00585,SUP-582495,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,29-08-2022,01-09-2022,Office Supplies,Delivered,706,65.33,62.06,60,NO,High,Operations
+PO-00586,SUP-902149,Campinas Industrial Ltda,Brazil,Campinas,20-11-2023,30-11-2023,MRO,Cancelled,169,47.16,43.4,,YES,Medium,Manufacturing
+PO-00587,SUP-479515,Lyon Industrial SARL,France,Lyon,14-11-2022,20-11-2022,Office Supplies,Pending,880,19.15,18.69,,no,Low,Finance
+PO-00588,SUP-349503,Chennai Industrial Pvt Ltd,India,Chennai,19-08-2022,25-08-2022,MRO,Delivered,1860,95.8,92.17,105,no,Medium,Finance
+PO-00589,SUP-552484,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,23-07-2022,09-08-2022,MRO,Delivered,1677,22.98,21.71,246,YES,Low,R&D
+PO-00590,SUP-568359,Mexico City Industrial S.A.,Mexico,Mexico City,31-05-2022,07-06-2022,Packaging,Partially Delivered,1131,97.43,91.28,103,YES,High,IT
+PO-00591,SUP-108911,Mumbai Industrial Pvt Ltd,India,Mumbai,26-01-2022,03-02-2022,Raw Materials,Cancelled,1419,50.14,43.46,,YES,Low,IT
+PO-00592,SUP-747742,Lyon Industrial SARL,France,Lyon,17-02-2022,18-02-2022,Raw Materials,Pending,790,26.8,25.62,115,YES,Medium,IT
+PO-00593,SUP-732612,Dallas Industrial LLC,United States,Dallas,08-09-2022,27-09-2022,MRO,Pending,1547,61.12,53.43,77,YES,Medium,Operations
+PO-00594,SUP-817761,New York Industrial LLC,United States,New York,02-05-2023,20-05-2023,Office Supplies,Cancelled,166,95.65,94.48,23,YES,Low,R&D
+PO-00595,SUP-371469,Frankfurt Industrial GmbH,Germany,Frankfurt,18-09-2023,21-09-2023,Electronics,Delivered,1903,83.49,82.33,43,YES,Medium,R&D
+PO-00596,SUP-892500,Birmingham Industrial Ltd,United Kingdom,Birmingham,16-03-2022,29-03-2022,Office Supplies,Partially Delivered,840,83.42,80.35,153,yes,Medium,Finance
+PO-00597,SUP-308563,Bologna Industrial SRL,Italy,Bologna,12-04-2023,,MRO,Delivered,1200,74.49,64.63,161,YES,Medium,Manufacturing
+PO-00598,SUP-391567,Chicago Industrial LLC,United States,Chicago,01-03-2023,18-03-2023,Raw Materials,Delivered,1466,77.37,70.35,72,YES,Medium,IT
+PO-00599,SUP-365985,"Shanghai Industrial Co., Ltd.",China,Shanghai,07-10-2023,21-10-2023,Office Supplies,Delivered,1981,95.5,94.39,49,yes,Medium,Finance
+PO-00600,SUP-693413,Lyon Industrial SARL,France,Lyon,13-08-2023,16-08-2023,Packaging,Delivered,1062,35.55,32.38,,YES,Medium,Manufacturing
+PO-00601,SUP-475054,"Guangzhou Industrial Co., Ltd.",China,Guangzhou,19-07-2022,30-07-2022,MRO,Delivered,1714,55.67,55.09,42,YES,High,R&D
+PO-00602,SUP-259861,London Industrial Ltd,United Kingdom,London,15-12-2023,30-12-2023,Office Supplies,Delivered,1131,33.35,31.28,23,YES,Low,IT
+PO-00603,SUP-642159,Bologna Industrial SRL,Italy,Bologna,29-01-2023,15-02-2023,Office Supplies,Delivered,683,104.82,101.34,,YES,High,IT
+PO-00604,SUP-225305,Mumbai Industrial Pvt Ltd,India,Mumbai,22-05-2023,09-06-2023,Packaging,Partially Delivered,562,102.56,90.88,38,YES,High,Operations
+PO-00605,SUP-350425,Milan Industrial SRL,Italy,Milan,14-02-2023,20-02-2023,Electronics,Delivered,1824,14.43,14.11,36,YES,High,IT
+PO-00606,SUP-534165,"Ho Chi Minh City Industrial Co., Ltd.",Vietnam,Ho Chi Minh City,07-09-2022,12-09-2022,Electronics,Partially Delivered,851,76.44,74.76,91,yes,Low,Finance
+PO-00607,SUP-746224,Atlanta Industrial LLC,United States,Atlanta,01-06-2022,03-06-2022,Office Supplies,Delivered,1169,95.6,82.16,103,YES,High,R&D
+PO-00608,SUP-554198,Hamburg Industrial GmbH,Germany,Hamburg,03-11-2023,20-11-2023,MRO,Delivered,1711,29.14,26.35,48,YES,Medium,R&D
+PO-00609,SUP-568168,Manchester Industrial Ltd,United Kingdom,Manchester,06-12-2023,12-12-2023,Packaging,Pending,1191,68.14,61.71,112,yes,Low,Finance
+PO-00610,SUP-187091,Monterrey Industrial S.A.,Mexico,Monterrey,06-01-2022,14-01-2022,Electronics,Delivered,609,92.39,82.75,29,YES,High,R&D
+PO-00611,SUP-975408,Milan Industrial SRL,Italy,Milan,20-04-2022,07-05-2022,Office Supplies,Delivered,1674,13.25,11.77,181,yes,Medium,Finance
+PO-00612,SUP-448990,Turin Industrial SRL,Italy,Turin,12-03-2023,15-03-2023,MRO,Delivered,537,77.86,71.18,20,yes,High,Finance
+PO-00613,SUP-477976,Mumbai Industrial Pvt Ltd,India,Mumbai,13-08-2022,31-08-2022,Electronics,Delivered,1310,38.05,37,45,yes,Medium,Finance
+PO-00614,SUP-296732,Monterrey Industrial S.A.,Mexico,Monterrey,30-06-2022,10-07-2022,Raw Materials,Delivered,1958,95.53,91.72,308,YES,Low,R&D
+PO-00615,SUP-325202,Berlin Industrial GmbH,Germany,Berlin,14-12-2023,17-12-2023,Office Supplies,Delivered,946,108.6,101.78,146,YES,High,R&D
+PO-00616,SUP-397675,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,15-06-2023,21-06-2023,Packaging,Partially Delivered,1345,103.06,95.14,,YES,High,IT
+PO-00617,SUP-938660,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,21-04-2023,10-05-2023,MRO,Delivered,1262,56.63,51.46,,no,Low,Finance
+PO-00618,SUP-556654,Mumbai Industrial Pvt Ltd,India,Mumbai,21.02.22,13-03-2022,Office Supplies,Pending,753,88.02,79.92,75,YES,Medium,R&D
+PO-00619,SUP-200241,Milan Industrial SRL,Italy,Milan,25.07.23,14-08-2023,Electronics,Delivered,1520,93.75,81.63,149,YES,Medium,Manufacturing
+PO-00620,SUP-202924,Birmingham Industrial Ltd,United Kingdom,Birmingham,13.09.22,02-10-2022,Office Supplies,Delivered,630,40.27,37.54,76,YES,Medium,Operations
+PO-00621,SUP-762420,Chicago Industrial LLC,United States,Chicago,5.05.22,06-05-2022,Office Supplies,Delivered,839,86.29,82.51,110,YES,High,Operations
+PO-00622,SUP-525772,Birmingham Industrial Ltd,United Kingdom,Birmingham,13.04.23,02-05-2023,Electronics,Delivered,910,14.33,14.07,27,YES,High,Manufacturing
+PO-00623,SUP-222182,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,17.05.22,24-05-2022,Raw Materials,Delivered,296,64.94,63.61,,YES,Low,Operations
+PO-00624,SUP-254909,Berlin Industrial GmbH,Germany,Berlin,21.04.23,05-05-2023,MRO,Delivered,1149,33,30.65,141,YES,High,Operations
+PO-00625,SUP-619285,"Ningbo Industrial Co., Ltd.",China,Ningbo,15.11.23,16-11-2023,Electronics,Delivered,203,23.14,20,,NO,High,Operations
+PO-00626,SUP-134090,Birmingham Industrial Ltd,United Kingdom,Birmingham,28.06.23,16-07-2023,Office Supplies,Delivered,1729,18.36,16.34,47,YES,Medium,IT
+PO-00627,SUP-264555,Milan Industrial SRL,Italy,Milan,27.07.23,06-08-2023,Office Supplies,Delivered,1508,79.21,73.27,226,YES,Low,R&D
+PO-00628,SUP-105008,Chennai Industrial Pvt Ltd,India,Chennai,2.09.23,15-09-2023,Packaging,Partially Delivered,1046,44.65,40.1,165,NO,Low,IT
+PO-00629,SUP-259749,Birmingham Industrial Ltd,United Kingdom,Birmingham,21.11.22,24-11-2022,Office Supplies,Delivered,1159,78.99,71.69,14,YES,Low,Manufacturing
+PO-00630,SUP-583804,"Guangzhou Industrial Co., Ltd.",China,Guangzhou,30-03-2023,05-04-2023,Electronics,Delivered,746,16.99,15.35,69,no,Medium,Finance
+PO-00631,SUP-248073,Guadalajara Industrial S.A.,Mexico,Guadalajara,20-09-2023,06-10-2023,Packaging,Delivered,1358,42.21,38.75,128,YES,Low,Operations
+PO-00632,SUP-308581,Monterrey Industrial S.A.,Mexico,Monterrey,01-06-2023,12-06-2023,Office Supplies,Delivered,1293,63.53,59.42,79,YES,High,Manufacturing
+PO-00633,SUP-939720,Manchester Industrial Ltd,United Kingdom,Manchester,13-03-2023,24-03-2023,Electronics,Delivered,1142,86.85,74.28,30,YES,High,Operations
+PO-00634,SUP-900795,Mexico City Industrial S.A.,Mexico,Mexico City,16-07-2023,27-07-2023,MRO,Delivered,1120,42.17,37.47,33,YES,High,IT
+PO-00635,SUP-538623,Manchester Industrial Ltd,United Kingdom,Manchester,02-04-2023,14-04-2023,MRO,Delivered,1058,71.3,62.04,,YES,Medium,R&D
+PO-00636,SUP-454085,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,12-06-2022,,Office Supplies,Delivered,143,91.98,86.02,5,yes,High,Finance
+PO-00637,SUP-564809,London Industrial Ltd,United Kingdom,London,02-05-2023,14-05-2023,MRO,Delivered,1823,70.66,66.92,202,yes,Low,Finance
+PO-00638,SUP-455811,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,06-04-2023,10-04-2023,Office Supplies,Delivered,1007,33.29,28.48,49,YES,Medium,Operations
+PO-00639,SUP-804776,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,23-09-2022,08-10-2022,Packaging,Delivered,1061,12.68,12.36,56,no,Medium,Finance
+PO-00640,SUP-807961,Hamburg Industrial GmbH,Germany,Hamburg,11-09-2022,26-09-2022,MRO,Pending,502,91.84,82.33,,YES,Medium,R&D
+PO-00641,SUP-555383,Mumbai Industrial Pvt Ltd,India,Mumbai,15-10-2023,19-10-2023,Packaging,Delivered,1277,13.17,11.63,199,NO,High,IT
+PO-00642,SUP-101698,Milan Industrial SRL,Italy,Milan,11-10-2022,24-10-2022,Packaging,Delivered,961,92.72,88.49,22,YES,High,Manufacturing
+PO-00643,SUP-837647,Paris Industrial SARL,France,Paris,18-06-2023,02-07-2023,Packaging,Delivered,267,62.5,61.18,17,yes,Low,Finance
+PO-00644,SUP-884472,"Beijing Industrial Co., Ltd.",China,Beijing,12-05-2023,18-05-2023,Raw Materials,Cancelled,523,102.08,99.59,,yes,Medium,Finance
+PO-00645,SUP-575868,Berlin Industrial GmbH,Germany,Berlin,04-10-2023,23-10-2023,Electronics,Pending,481,90.49,77.17,,YES,Medium,IT
+PO-00646,SUP-577549,Berlin Industrial GmbH,Germany,Berlin,02-09-2022,09-09-2022,Office Supplies,Delivered,390,103.81,100.12,20,yes,High,Finance
+PO-00647,SUP-140931,Milan Industrial SRL,Italy,Milan,09-10-2022,25-10-2022,Packaging,Delivered,600,43.43,38.76,22,YES,Medium,Manufacturing
+PO-00648,SUP-358260,Mexico City Industrial S.A.,Mexico,Mexico City,27-03-2023,,Office Supplies,Delivered,1685,84.58,75.21,253,NO,High,Manufacturing
+PO-00649,SUP-635252,"Guangzhou Industrial Co., Ltd.",China,Guangzhou,21-03-2022,31-03-2022,Packaging,Cancelled,1362,46.64,42.85,33,YES,Low,IT
+PO-00650,SUP-909328,Paris Industrial SARL,France,Paris,01-01-2024,04-01-2024,Electronics,Pending,1327,59.57,56.44,169,YES,Medium,IT
+PO-00651,SUP-991173,"Beijing Industrial Co., Ltd.",China,Beijing,20-10-2022,,MRO,Delivered,1807,69.47,60,50,YES,High,Manufacturing
+PO-00652,SUP-491515,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,29-08-2022,06-09-2022,Office Supplies,Pending,406,91.73,89.13,,YES,Low,Manufacturing
+PO-00653,SUP-357186,"Beijing Industrial Co., Ltd.",China,Beijing,06-10-2022,18-10-2022,Raw Materials,Partially Delivered,72,103,89.49,1,NO,High,Manufacturing
+PO-00654,SUP-444963,Pune Industrial Pvt Ltd,India,Pune,10-12-2022,20-12-2022,Office Supplies,Delivered,1835,83.5,82.36,85,NO,Low,Operations
+PO-00655,SUP-297125,Campinas Industrial Ltda,Brazil,Campinas,24-11-2022,10-12-2022,Electronics,Pending,571,49.98,45.58,,NO,High,Manufacturing
+PO-00656,SUP-434830,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,08-07-2023,09-07-2023,Packaging,Delivered,1831,52.24,50.44,60,YES,Low,IT
+PO-00657,SUP-165403,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,24-03-2022,07-04-2022,Office Supplies,Pending,1910,77.15,68.49,170,YES,Low,Manufacturing
+PO-00658,SUP-567778,"Ningbo Industrial Co., Ltd.",China,Ningbo,22-05-2022,31-05-2022,Electronics,Partially Delivered,1173,32.12,29.18,,YES,Medium,R&D
+PO-00659,SUP-968417,Bologna Industrial SRL,Italy,Bologna,04-06-2022,17-06-2022,Packaging,Partially Delivered,851,20.44,19.22,22,yes,Low,Finance
+PO-00660,SUP-853560,"Beijing Industrial Co., Ltd.",China,Beijing,25-08-2022,07-09-2022,MRO,Cancelled,1253,43.38,38.01,34,yes,Medium,Finance
+PO-00661,SUP-567375,"Ho Chi Minh City Industrial Co., Ltd.",Vietnam,Ho Chi Minh City,28-01-2023,15-02-2023,Electronics,Delivered,1296,38,33.42,33,YES,High,IT
+PO-00662,SUP-643612,Turin Industrial SRL,Italy,Turin,12-12-2023,30-12-2023,Raw Materials,Delivered,1979,40.88,39.46,221,YES,High,R&D
+PO-00663,SUP-871034,San Jose Industrial LLC,United States,San Jose,06-06-2022,19-06-2022,Office Supplies,Delivered,811,31.8,30.33,58,yes,High,Finance
+PO-00664,SUP-480984,"Shanghai Industrial Co., Ltd.",China,Shanghai,25-12-2023,12-01-2024,Electronics,Delivered,1732,15.37,14.7,38,YES,High,Operations
+PO-00665,SUP-225363,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,08-08-2022,28-08-2022,Packaging,Delivered,491,12.01,11.67,47,YES,High,Manufacturing
+PO-00666,SUP-797431,Mumbai Industrial Pvt Ltd,India,Mumbai,07-03-2022,11-03-2022,Packaging,Cancelled,1681,99.88,96.38,90,YES,Low,Operations
+PO-00667,SUP-767595,Lyon Industrial SARL,France,Lyon,01-03-2023,05-03-2023,Raw Materials,Partially Delivered,818,51.89,47.85,12,YES,High,Operations
+PO-00668,SUP-253765,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,22.02.23,05-03-2023,Office Supplies,Delivered,1065,47.49,41.42,113,YES,Low,Operations
+PO-00669,SUP-232961,New York Industrial LLC,United States,New York,5.12.22,17-12-2022,Packaging,Delivered,1398,75.08,67.09,57,YES,High,IT
+PO-00670,SUP-804269,Mumbai Industrial Pvt Ltd,India,Mumbai,10.07.23,17-07-2023,Packaging,Delivered,565,32.31,29.76,60,YES,High,R&D
+PO-00671,SUP-252866,"Beijing Industrial Co., Ltd.",China,Beijing,23.04.23,06-05-2023,Packaging,Pending,1089,102.66,89.21,33,YES,Medium,Manufacturing
+PO-00672,SUP-458129,Birmingham Industrial Ltd,United Kingdom,Birmingham,2.03.23,04-03-2023,Electronics,Delivered,841,86.43,83.77,125,NO,High,IT
+PO-00673,SUP-461240,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,5.03.22,16-03-2022,Electronics,Delivered,385,18.23,17.74,,yes,Low,Finance
+PO-00674,SUP-516948,Stuttgart Industrial GmbH,Germany,Stuttgart,31.07.22,17-08-2022,Office Supplies,Delivered,1832,49.01,41.86,52,YES,High,Manufacturing
+PO-00675,SUP-672319,Pune Industrial Pvt Ltd,India,Pune,7.03.23,27-03-2023,Raw Materials,Delivered,307,95.36,83.63,29,YES,Low,IT
+PO-00676,SUP-420412,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,3.02.23,08-02-2023,Office Supplies,Delivered,546,101.2,97.82,21,YES,Low,R&D
+PO-00677,SUP-888146,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,22.08.23,11-09-2023,Raw Materials,Delivered,945,57.01,55.14,147,NO,High,Operations
+PO-00678,SUP-400713,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,14.12.23,27-12-2023,MRO,Pending,209,72.71,64.34,39,YES,Low,Operations
+PO-00679,SUP-967552,Hamburg Industrial GmbH,Germany,Hamburg,21.01.22,,Packaging,Delivered,1548,25.03,22.87,,yes,Medium,Finance
+PO-00680,SUP-938712,Dallas Industrial LLC,United States,Dallas,13-08-2023,23-08-2023,Raw Materials,Delivered,901,108.63,106.3,141,yes,High,Finance
+PO-00681,SUP-424988,Lyon Industrial SARL,France,Lyon,25-01-2023,11-02-2023,Packaging,Delivered,1737,32.7,31.02,48,YES,Medium,R&D
+PO-00682,SUP-557147,Paris Industrial SARL,France,Paris,04-05-2023,22-05-2023,Raw Materials,Delivered,1981,102.43,90.99,204,YES,High,IT
+PO-00683,SUP-892130,Hamburg Industrial GmbH,Germany,Hamburg,07-01-2022,26-01-2022,MRO,Pending,739,68.47,66.09,19,YES,High,Operations
+PO-00684,SUP-969983,Guadalajara Industrial S.A.,Mexico,Guadalajara,27-12-2022,28-12-2022,Raw Materials,Delivered,1748,68.25,62.84,171,YES,Low,IT
+PO-00685,SUP-910336,Chennai Industrial Pvt Ltd,India,Chennai,02-11-2022,06-11-2022,Office Supplies,Cancelled,429,58.95,55.35,59,no,High,Finance
+PO-00686,SUP-332902,Bologna Industrial SRL,Italy,Bologna,04-02-2023,,Electronics,Delivered,1618,32.76,28.41,62,YES,High,Manufacturing
+PO-00687,SUP-933305,Lyon Industrial SARL,France,Lyon,06-03-2023,07-03-2023,Packaging,Delivered,1006,27.7,23.66,101,NO,Low,IT
+PO-00688,SUP-778432,Dallas Industrial LLC,United States,Dallas,06-07-2023,15-07-2023,Electronics,Partially Delivered,740,32.53,29.35,84,YES,Low,R&D
+PO-00689,SUP-394723,Dallas Industrial LLC,United States,Dallas,14-07-2023,,Raw Materials,Delivered,1500,29.19,27.24,72,YES,High,Manufacturing
+PO-00690,SUP-974496,Bologna Industrial SRL,Italy,Bologna,10-09-2023,29-09-2023,Office Supplies,Cancelled,1686,88.18,77.15,,YES,High,IT
+PO-00691,SUP-143613,Mexico City Industrial S.A.,Mexico,Mexico City,14-08-2022,16-08-2022,Raw Materials,Cancelled,1341,42.96,41.75,39,YES,Medium,Operations
+PO-00692,SUP-939368,"Ningbo Industrial Co., Ltd.",China,Ningbo,15-05-2023,21-05-2023,MRO,Cancelled,1908,16.42,15.31,36,yes,High,Finance
+PO-00693,SUP-881467,Atlanta Industrial LLC,United States,Atlanta,13-08-2022,02-09-2022,MRO,Partially Delivered,1650,100.62,90.45,85,YES,Low,R&D
+PO-00694,SUP-936317,Monterrey Industrial S.A.,Mexico,Monterrey,07-10-2022,20-10-2022,MRO,Delivered,1490,93.57,81.68,29,YES,High,Operations
+PO-00695,SUP-242125,Guadalajara Industrial S.A.,Mexico,Guadalajara,23-03-2023,31-03-2023,Raw Materials,Delivered,1241,100.04,97.56,187,YES,High,R&D
+PO-00696,SUP-735249,Manchester Industrial Ltd,United Kingdom,Manchester,13-05-2023,17-05-2023,MRO,Delivered,1915,107.51,102.66,184,YES,High,Operations
+PO-00697,SUP-485227,Paris Industrial SARL,France,Paris,30-01-2022,14-02-2022,Raw Materials,Delivered,1116,25.65,24.28,121,YES,Low,Operations
+PO-00698,SUP-178707,Berlin Industrial GmbH,Germany,Berlin,03-02-2023,08-02-2023,Raw Materials,Delivered,1629,48.63,43.28,260,yes,Medium,Finance
+PO-00699,SUP-185154,"Guangzhou Industrial Co., Ltd.",China,Guangzhou,11-12-2022,18-12-2022,Office Supplies,Delivered,334,82.54,74.63,,YES,Low,Operations
+PO-00700,SUP-242240,Mumbai Industrial Pvt Ltd,India,Mumbai,16-11-2023,06-12-2023,Packaging,Delivered,446,80.63,70.37,,YES,High,Operations
+PO-00701,SUP-858255,Bangalore Industrial Pvt Ltd,India,Bangalore,27-11-2023,,Electronics,Delivered,61,26.47,24.62,6,YES,High,Operations
+PO-00702,SUP-127592,Bologna Industrial SRL,Italy,Bologna,19-02-2023,21-02-2023,Packaging,Delivered,1680,88.85,87.53,,YES,Low,IT
+PO-00703,SUP-131925,Frankfurt Industrial GmbH,Germany,Frankfurt,19-06-2022,06-07-2022,Electronics,Delivered,1375,30.95,30.02,223,YES,Medium,R&D
+PO-00704,SUP-127263,Stuttgart Industrial GmbH,Germany,Stuttgart,24-04-2023,05-05-2023,Electronics,Partially Delivered,1971,32.4,30.48,321,YES,High,IT
+PO-00705,SUP-680865,Lyon Industrial SARL,France,Lyon,11-05-2022,,Raw Materials,Pending,1326,59.49,56.21,,YES,Low,Operations
+PO-00706,SUP-696319,New York Industrial LLC,United States,New York,30-09-2023,13-10-2023,MRO,Cancelled,548,69.7,61.87,90,YES,Medium,R&D
+PO-00707,SUP-870947,Frankfurt Industrial GmbH,Germany,Frankfurt,01-07-2023,07-07-2023,MRO,Delivered,803,67.81,61.53,78,yes,Low,Finance
+PO-00708,SUP-560873,Campinas Industrial Ltda,Brazil,Campinas,28-01-2022,15-02-2022,MRO,Delivered,84,18.23,15.55,0,yes,High,Finance
+PO-00709,SUP-485267,Chennai Industrial Pvt Ltd,India,Chennai,08-02-2023,20-02-2023,Packaging,Delivered,776,94.75,90.89,19,YES,Low,R&D
+PO-00710,SUP-102897,Campinas Industrial Ltda,Brazil,Campinas,30-08-2023,08-09-2023,MRO,Delivered,898,37.12,35.54,18,NO,Medium,IT
+PO-00711,SUP-914789,Campinas Industrial Ltda,Brazil,Campinas,01-08-2023,08-08-2023,Office Supplies,Cancelled,139,23.71,20.18,14,yes,Low,Finance
+PO-00712,SUP-691992,Frankfurt Industrial GmbH,Germany,Frankfurt,10-11-2023,,Raw Materials,Delivered,825,99.89,97.65,30,yes,Medium,Finance
+PO-00713,SUP-324636,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,28-01-2022,07-02-2022,MRO,Delivered,654,96.01,90.31,10,YES,High,Operations
+PO-00714,SUP-853407,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,27-03-2022,06-04-2022,MRO,Delivered,1995,88.47,82.65,87,NO,Low,Operations
+PO-00715,SUP-458236,Paris Industrial SARL,France,Paris,21-10-2023,28-10-2023,MRO,Delivered,1019,91.56,77.93,111,no,Low,Finance
+PO-00716,SUP-316038,San Jose Industrial LLC,United States,San Jose,15-03-2023,31-03-2023,Packaging,Pending,1675,73.8,65.34,42,YES,Medium,Operations
+PO-00717,SUP-782693,Milan Industrial SRL,Italy,Milan,19-05-2022,31-05-2022,Raw Materials,Pending,1071,60.77,58.5,,YES,Medium,IT
+PO-00718,SUP-334630,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,18-04-2023,27-04-2023,Office Supplies,Delivered,467,19.17,17.11,49,YES,High,IT
+PO-00719,SUP-349767,Manchester Industrial Ltd,United Kingdom,Manchester,06-07-2022,25-07-2022,MRO,Pending,164,48.16,47.46,27,YES,Medium,IT
+PO-00720,SUP-717653,Marseille Industrial SARL,France,Marseille,21-02-2022,06-03-2022,Electronics,Cancelled,666,43.76,41.13,18,yes,Medium,Finance
+PO-00721,SUP-904531,San Jose Industrial LLC,United States,San Jose,24-09-2022,07-10-2022,Packaging,Partially Delivered,1976,34.71,31.56,286,NO,Low,IT
+PO-00722,SUP-229545,Birmingham Industrial Ltd,United Kingdom,Birmingham,24-01-2023,29-01-2023,MRO,Delivered,1269,79.61,71.86,47,yes,Low,Finance
+PO-00723,SUP-148723,Dallas Industrial LLC,United States,Dallas,02-12-2022,12-12-2022,MRO,Delivered,875,57.63,51.8,16,YES,Medium,IT
+PO-00724,SUP-382165,Stuttgart Industrial GmbH,Germany,Stuttgart,05-08-2022,,Packaging,Partially Delivered,1574,17.9,15.85,31,YES,Low,Operations
+PO-00725,SUP-366151,Atlanta Industrial LLC,United States,Atlanta,11.04.23,26.04.23,Office Supplies,Partially Delivered,1699,32.05,29.34,69,YES,Low,Manufacturing
+PO-00726,SUP-456778,"Shenzhen Industrial Co., Ltd.",China,Shenzhen,1.12.22,17.12.22,Electronics,Delivered,1566,75.43,71.27,27,YES,Medium,Operations
+PO-00727,SUP-600445,"Ningbo Industrial Co., Ltd.",China,Ningbo,12.12.22,30.12.22,Electronics,Delivered,1148,17.78,17.16,61,YES,Low,R&D
+PO-00728,SUP-515815,Chicago Industrial LLC,United States,Chicago,24.01.23,11.02.23,Office Supplies,Delivered,462,91.81,83.14,11,YES,Medium,R&D
+PO-00729,SUP-631717,"Ho Chi Minh City Industrial Co., Ltd.",Vietnam,Ho Chi Minh City,12.10.22,17.10.22,Packaging,Delivered,1449,57.02,49.28,71,YES,Low,R&D
+PO-00730,SUP-149166,Paris Industrial SARL,France,Paris,8.03.23,27.03.23,MRO,Delivered,1493,56.98,52.51,43,YES,Low,R&D
+PO-00731,SUP-490146,Turin Industrial SRL,Italy,Turin,16.09.22,18.09.22,Office Supplies,Delivered,778,65.85,62.08,,NO,Medium,Manufacturing
+PO-00732,SUP-269298,Birmingham Industrial Ltd,United Kingdom,Birmingham,25.03.22,11.04.22,Packaging,Partially Delivered,1350,85.06,82.34,,NO,Medium,Operations
+PO-00733,SUP-281271,"Ho Chi Minh City Industrial Co., Ltd.",Vietnam,Ho Chi Minh City,27.04.23,5.05.23,Packaging,Delivered,1070,44.4,40.07,26,YES,Medium,Manufacturing
+PO-00734,SUP-704580,Mumbai Industrial Pvt Ltd,India,Mumbai,20.01.22,3.02.22,Packaging,Pending,810,71.02,66.8,73,YES,Low,Operations
+PO-00735,SUP-974105,Lyon Industrial SARL,France,Lyon,7.07.23,23.07.23,Packaging,Cancelled,725,66.4,62.1,118,YES,Medium,Operations
+PO-00736,SUP-103835,Turin Industrial SRL,Italy,Turin,23.02.22,28.02.22,Electronics,Delivered,1467,34.2,30.5,25,YES,High,Operations
+PO-00737,SUP-913179,Marseille Industrial SARL,France,Marseille,25.12.22,12.01.23,Packaging,Delivered,1942,93.98,81.31,198,YES,Low,Operations
+PO-00738,SUP-344972,Paris Industrial SARL,France,Paris,18-08-2022,,Office Supplies,Delivered,506,84.63,72.69,20,YES,Medium,Operations
+PO-00739,SUP-831376,Monterrey Industrial S.A.,Mexico,Monterrey,28-10-2023,13-11-2023,MRO,Delivered,969,76.53,75.64,30,YES,Low,Operations
+PO-00740,SUP-625659,Monterrey Industrial S.A.,Mexico,Monterrey,12-03-2022,19-03-2022,MRO,Delivered,241,87.42,82.15,,yes,Medium,Finance
+PO-00741,SUP-865676,Milan Industrial SRL,Italy,Milan,30-10-2023,09-11-2023,Raw Materials,Delivered,788,97.3,94.44,32,YES,Low,IT
+PO-00742,SUP-114398,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,11-02-2022,13-02-2022,Office Supplies,Delivered,1762,74.12,65.71,94,YES,Medium,Operations
+PO-00743,SUP-155229,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,01-02-2022,,Raw Materials,Pending,1172,85.76,81.43,25,YES,High,Operations
+PO-00744,SUP-955277,Lyon Industrial SARL,France,Lyon,11-09-2022,30-09-2022,Office Supplies,Delivered,1621,75.68,73.78,226,NO,Low,R&D
+PO-00745,SUP-869609,Bologna Industrial SRL,Italy,Bologna,24-07-2022,26-07-2022,Packaging,Delivered,1027,73.35,65.42,24,no,Low,Finance
+PO-00746,SUP-830971,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,21-01-2022,,Raw Materials,Delivered,1058,65.68,57.21,101,YES,Medium,R&D
+PO-00747,SUP-139678,Paris Industrial SARL,France,Paris,29-09-2023,05-10-2023,Packaging,Delivered,145,85.52,81.86,11,NO,High,Operations
+PO-00748,SUP-151534,London Industrial Ltd,United Kingdom,London,06-06-2022,,Office Supplies,Delivered,1737,24.88,24.28,46,yes,Low,Finance
+PO-00749,SUP-280393,London Industrial Ltd,United Kingdom,London,02-09-2022,15-09-2022,Electronics,Delivered,712,92.85,89.39,43,yes,Medium,Finance
+PO-00750,SUP-623173,"Shanghai Industrial Co., Ltd.",China,Shanghai,10-05-2022,16-05-2022,Electronics,Delivered,1263,90.24,86.84,28,YES,Low,Operations
+PO-00751,SUP-258677,Chennai Industrial Pvt Ltd,India,Chennai,30-04-2023,,Electronics,Delivered,1809,13.58,12.68,,NO,High,Operations
+PO-00687,SUP-933305,Lyon Industrial SARL,France,Lyon,06-03-2023,07-03-2023,Packaging,Delivered,1006,27.7,23.66,101,NO,Low,IT
+PO-00688,SUP-778432,Dallas Industrial LLC,United States,Dallas,06-07-2023,15-07-2023,Electronics,Partially Delivered,740,32.53,29.35,84,YES,Low,R&D
+PO-00689,SUP-394723,Dallas Industrial LLC,United States,Dallas,14-07-2023,,Raw Materials,Delivered,1500,29.19,27.24,72,YES,High,Manufacturing
+PO-00690,SUP-974496,Bologna Industrial SRL,Italy,Bologna,10-09-2023,29-09-2023,Office Supplies,Cancelled,1686,88.18,77.15,,YES,High,IT
+PO-00691,SUP-143613,Mexico City Industrial S.A.,Mexico,Mexico City,14-08-2022,16-08-2022,Raw Materials,Cancelled,1341,42.96,41.75,39,YES,Medium,Operations
+PO-00692,SUP-939368,"Ningbo Industrial Co., Ltd.",China,Ningbo,15-05-2023,21-05-2023,MRO,Cancelled,1908,16.42,15.31,36,yes,High,Finance
+PO-00693,SUP-881467,Atlanta Industrial LLC,United States,Atlanta,13-08-2022,02-09-2022,MRO,Partially Delivered,1650,100.62,90.45,85,YES,Low,R&D
+PO-00694,SUP-936317,Monterrey Industrial S.A.,Mexico,Monterrey,07-10-2022,20-10-2022,MRO,Delivered,1490,93.57,81.68,29,YES,High,Operations
+PO-00695,SUP-242125,Guadalajara Industrial S.A.,Mexico,Guadalajara,23-03-2023,31-03-2023,Raw Materials,Delivered,1241,100.04,97.56,187,YES,High,R&D
+PO-00696,SUP-735249,Manchester Industrial Ltd,United Kingdom,Manchester,13-05-2023,17-05-2023,MRO,Delivered,1915,107.51,102.66,184,YES,High,Operations
+PO-00752,SUP-386492,Birmingham Industrial Ltd,United Kingdom,Birmingham,17-11-2023,,Electronics,Cancelled,86,93.6,88.22,5,YES,Medium,IT
+PO-00753,SUP-301578,Guadalajara Industrial S.A.,Mexico,Guadalajara,28-04-2022,,MRO,Delivered,1853,21.92,20.72,,YES,Low,IT
+PO-00754,SUP-732200,Guadalajara Industrial S.A.,Mexico,Guadalajara,01-08-2023,02-08-2023,Electronics,Delivered,1442,43.98,41.82,140,no,High,Finance
+PO-00755,SUP-435797,"Shanghai Industrial Co., Ltd.",China,Shanghai,12-08-2022,01-09-2022,Office Supplies,Pending,1768,79.61,74.97,207,NO,Medium,Operations
+PO-00756,SUP-211839,"Ho Chi Minh City Industrial Co., Ltd.",Vietnam,Ho Chi Minh City,22-04-2023,03-05-2023,Electronics,Partially Delivered,1598,26.3,26.03,154,no,High,Finance
+PO-00757,SUP-883624,Marseille Industrial SARL,France,Marseille,18-12-2023,05-01-2024,MRO,Cancelled,328,93.23,82.63,6,yes,High,Finance
+PO-00758,SUP-207631,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,20-09-2022,25-09-2022,Packaging,Delivered,266,88.29,80.22,4,YES,Medium,Operations
+PO-00759,SUP-267675,Chicago Industrial LLC,United States,Chicago,13-01-2023,28-01-2023,Raw Materials,Delivered,916,59.01,53.37,47,YES,Medium,IT
+PO-00760,SUP-195611,New York Industrial LLC,United States,New York,21-06-2022,25-06-2022,Packaging,Cancelled,922,10.84,9.27,29,YES,Medium,Operations
+PO-00761,SUP-142828,Mexico City Industrial S.A.,Mexico,Mexico City,13-09-2023,28-09-2023,Packaging,Delivered,1871,39.42,37.41,101,no,High,Finance
+PO-00762,SUP-576198,Hamburg Industrial GmbH,Germany,Hamburg,14-09-2023,20-09-2023,Raw Materials,Delivered,1346,72.08,67.04,38,YES,Medium,IT
+PO-00763,SUP-614396,Monterrey Industrial S.A.,Mexico,Monterrey,28-04-2022,09-05-2022,Electronics,Delivered,1954,99.78,87.47,57,YES,Medium,IT
+PO-00764,SUP-617121,"Hanoi Industrial Co., Ltd.",Vietnam,Hanoi,17-06-2022,06-07-2022,Electronics,Delivered,111,68.53,65.22,11,YES,Low,Operations
+PO-00765,SUP-598247,Birmingham Industrial Ltd,United Kingdom,Birmingham,15-11-2022,22-11-2022,Office Supplies,Pending,645,35.05,30.88,27,YES,Medium,Operations
+PO-00766,SUP-444547,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,21-04-2022,04-05-2022,Electronics,Cancelled,1953,68.07,62.95,87,YES,High,Manufacturing
+PO-00767,SUP-100369,Mexico City Industrial S.A.,Mexico,Mexico City,16-08-2023,02-09-2023,Electronics,Delivered,778,64.17,61.6,47,YES,High,Manufacturing
+PO-00768,SUP-642871,Lyon Industrial SARL,France,Lyon,27-01-2022,09-02-2022,Office Supplies,Delivered,1415,80.19,78.34,,YES,Medium,Operations
+PO-00769,SUP-920043,Pune Industrial Pvt Ltd,India,Pune,16-11-2022,22-11-2022,Raw Materials,Delivered,446,20.61,19.46,14,YES,Low,Operations
+PO-00770,SUP-230172,Guadalajara Industrial S.A.,Mexico,Guadalajara,13-08-2023,,Office Supplies,Delivered,748,85.95,79.16,32,yes,Low,Finance
+PO-00771,SUP-299652,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,25-11-2023,03-12-2023,Electronics,Pending,1092,65.17,63.11,21,yes,Low,Finance
+PO-00772,SUP-646360,"Guangzhou Industrial Co., Ltd.",China,Guangzhou,20-01-2023,02-02-2023,Electronics,Delivered,226,102.47,99.16,28,YES,Medium,Operations
+PO-00773,SUP-321407,Birmingham Industrial Ltd,United Kingdom,Birmingham,11-02-2023,20-02-2023,Electronics,Delivered,1685,43.42,42.24,262,YES,High,R&D
+PO-00774,SUP-657310,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,23-07-2022,,Office Supplies,Delivered,445,68.94,60.35,7,YES,Low,IT
+PO-00775,SUP-864872,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,19-03-2022,07-04-2022,Raw Materials,Delivered,494,94.82,81.89,29,yes,Medium,Finance
+PO-00776,SUP-282147,Bologna Industrial SRL,Italy,Bologna,30-08-2023,11-09-2023,MRO,Delivered,1306,21.05,18.27,128,YES,High,Operations
+PO-00777,SUP-596278,Chennai Industrial Pvt Ltd,India,Chennai,09-12-2023,11-12-2023,Office Supplies,Delivered,1988,105.2,93.23,187,YES,Low,R&D
+PO-00224,SUP-197322,Rio de Janeiro Industrial Ltda,Brazil,Rio de Janeiro,13-12-2022,18-12-2022,MRO,Delivered,1101,59.13,52.51,54,YES,Medium,IT
+PO-00225,SUP-159301,San Jose Industrial LLC,United States,San Jose,22-01-2022,24-01-2022,Raw Materials,Delivered,1693,57.89,49.84,88,YES,High,IT
+PO-00226,SUP-165667,Hamburg Industrial GmbH,Germany,Hamburg,26-08-2023,10-09-2023,Office Supplies,Cancelled,1629,21.51,19.41,250,NO,Medium,Operations
+PO-00227,SUP-734896,Stuttgart Industrial GmbH,Germany,Stuttgart,22-07-2023,03-08-2023,Raw Materials,Delivered,1413,54.79,50.42,,YES,Low,Manufacturing
+PO-00228,SUP-912064,Stuttgart Industrial GmbH,Germany,Stuttgart,24-08-2022,27-08-2022,Packaging,Delivered,1871,59.96,58.54,47,yes,Low,Finance
+PO-00229,SUP-559084,Pune Industrial Pvt Ltd,India,Pune,26-08-2023,,Raw Materials,Delivered,1404,34.85,30.5,78,YES,High,R&D
+PO-00230,SUP-547266,"Shanghai Industrial Co., Ltd.",China,Shanghai,14-08-2022,28-08-2022,Electronics,Delivered,1713,35.43,34.11,74,YES,Medium,IT
+PO-00231,SUP-384779,Campinas Industrial Ltda,Brazil,Campinas,08-01-2022,13-01-2022,Electronics,Delivered,1579,43.96,43.41,74,YES,Low,R&D
+PO-00232,SUP-384446,Bologna Industrial SRL,Italy,Bologna,14-03-2022,26-03-2022,Electronics,Delivered,1421,11.92,11.72,76,YES,Medium,Manufacturing
+PO-00233,SUP-302877,Frankfurt Industrial GmbH,Germany,Frankfurt,26-12-2023,04-01-2024,MRO,Delivered,1546,43.47,37.37,53,YES,Medium,Operations
+PO-00234,SUP-754852,Berlin Industrial GmbH,Germany,Berlin,09-10-2023,18-10-2023,Electronics,Delivered,1304,32.08,29.36,,YES,Medium,IT
+PO-00235,SUP-417419,Stuttgart Industrial GmbH,Germany,Stuttgart,02-03-2022,,Raw Materials,Delivered,239,39.87,35.47,32,yes,Medium,Finance
+PO-00236,SUP-972156,Bologna Industrial SRL,Italy,Bologna,23-08-2022,,Office Supplies,Delivered,1298,21.51,20.83,,YES,Low,IT
+PO-00237,SUP-406247,Turin Industrial SRL,Italy,Turin,11-03-2022,,MRO,Delivered,1458,91.05,81.56,220,YES,Medium,R&D
+PO-00238,SUP-416634,Mexico City Industrial S.A.,Mexico,Mexico City,02-02-2022,13-02-2022,MRO,Delivered,1450,63.74,59.11,71,YES,Low,Manufacturing
+PO-00239,SUP-516193,"Shanghai Industrial Co., Ltd.",China,Shanghai,05-12-2022,20-12-2022,Electronics,Delivered,1356,75.03,63.86,131,YES,Low,Manufacturing
+PO-00240,SUP-375015,Lyon Industrial SARL,France,Lyon,14-03-2022,,Packaging,Delivered,682,81.84,71.86,40,yes,High,Finance
+PO-00241,SUP-639008,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,11-06-2023,19-06-2023,Packaging,Delivered,677,59.52,55.29,39,yes,Medium,Finance
+PO-00001,SUP-364231,Marseille Industrial SARL,France,Marseille,17-10-2023,25-10-2023,Office Supplies,Cancelled,1176,20.13,17.81,,yes,Low,Finance
+PO-00002,SUP-547750,Lyon Industrial SARL,France,Lyon,25-04-2022,05-05-2022,Office Supplies,Delivered,1509,39.32,37.34,235,yes,Low,Finance
+PO-00003,SUP-911637,"Shanghai Industrial Co., Ltd.",China,Shanghai,26-01-2022,15-02-2022,MRO,Delivered,910,95.51,92.26,41,YES,Medium,Operations
+PO-00004,SUP-212913,Hamburg Industrial GmbH,Germany,Hamburg,09-10-2022,28-10-2022,Packaging,Delivered,1344,99.85,95.52,112,YES,High,Manufacturing
+PO-00005,SUP-408803,"Da Nang Industrial Co., Ltd.",Vietnam,Da Nang,08-09-2022,20-09-2022,Raw Materials,Delivered,1180,64.07,60.53,171,NO,Medium,R&D
+PO-00006,SUP-856971,Mumbai Industrial Pvt Ltd,India,Mumbai,17-08-2022,29-08-2022,MRO,Delivered,1145,69.21,63.57,39,yes,Medium,Finance
+PO-00007,SUP-332077,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,23-05-2022,03-06-2022,MRO,Delivered,1774,51.37,47.82,96,NO,Medium,Operations
+PO-00008,SUP-259243,Sao Paulo Industrial Ltda,Brazil,Sao Paulo,15-04-2022,29-04-2022,MRO,Delivered,1094,36.93,32.78,22,YES,Low,R&D
+PO-00009,SUP-116616,Monterrey Industrial S.A.,Mexico,Monterrey,24-11-2023,28-11-2023,Raw Materials,Partially Delivered,1688,43.93,39.89,89,YES,High,R&D
+PO-00010,SUP-453243,New York Industrial LLC,United States,New York,13-07-2023,25-07-2023,Raw Materials,Pending,171,76.87,70.2,8,YES,Medium,Manufacturing
+PO-00011,SUP-749086,London Industrial Ltd,United Kingdom,London,31-03-2022,15-04-2022,Raw Materials,Delivered,5000,78.49,73.68,18,YES,High,Operations
+PO-00012,SUP-930177,Guadalajara Industrial S.A.,Mexico,Guadalajara,28-08-2023,11-09-2023,Raw Materials,Delivered,5000,88.96,86.58,115,yes,High,Finance
+PO-00013,SUP-347261,Pune Industrial Pvt Ltd,India,Pune,09-03-2023,26-03-2023,Electronics,Pending,5000,86.74,74.86,51,YES,High,Manufacturing
+PO-00014,SUP-455657,Manchester Industrial Ltd,United Kingdom,Manchester,02-02-2022,,MRO,Delivered,5000,18.3,16.88,,YES,Low,IT
+PO-00015,SUP-766753,Campinas Industrial Ltda,Brazil,Campinas,31-01-2022,18-02-2022,Electronics,Pending,5000,54.5,48.45,22,YES,High,Manufacturing
+PO-00016,SUP-420017,Lyon Industrial SARL,France,Lyon,06-04-2022,21-04-2022,Packaging,Delivered,5000,15.41,15.12,,YES,Medium,R&D
+PO-00017,SUP-690859,Guadalajara Industrial S.A.,Mexico,Guadalajara,12-08-2022,31-08-2022,MRO,Delivered,1173,61.54,55.49,172,no,High,Finance
+PO-00018,SUP-419021,Turin Industrial SRL,Italy,Turin,27-08-2022,04-09-2022,Raw Materials,Delivered,921,51.48,50.61,,YES,Low,Manufacturing
+PO-00019,SUP-704396,Chennai Industrial Pvt Ltd,India,Chennai,02-06-2023,05-06-2023,Raw Materials,Partially Delivered,1737,97.53,87.37,79,YES,Medium,Operations
+PO-00020,SUP-464700,Lyon Industrial SARL,France,Lyon,09-09-2023,24-09-2023,Raw Materials,Delivered,180,45.74,38.89,,no,Medium,Finance
+PO-00021,SUP-210242,Turin Industrial SRL,Italy,Turin,28-01-2022,12-02-2022,Electronics,Cancelled,1735,20.54,19.69,49,YES,Medium,R&D
